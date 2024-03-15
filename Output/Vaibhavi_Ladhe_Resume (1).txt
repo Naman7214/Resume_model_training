@@ -1,0 +1,58 @@
+Education
+Marathwada Mitramandals College of Engineering | PUNE, Maharashtra
+Bachelor of Engineering in Information Technology | 08/2025
+CGPA:-8.84 
+Government Polytechnic Pune | PUNE, Maharashtra
+Diploma in Computer Engineering | 08/2022
+Percentage:- 90 %
+MIT, Shree Sant Dnyaneshwar Madhyamik Vidyalaya | PUNE, Maharashtra
+SSC | 03/2019
+Percentage:- 94.40 %
+Skills
+SQL, Java, JavaScript, HTML & CSS, API Development, Data Structures
+Projects
+Car and Bike Purchase,Sale & Service System |HTML,CSS,JavaScript,JAVA,MySQL,VSCode
+Purchase and Sale: Streamlined the buying and selling process through an intuitive interface, allowing users to list,
+browse, and manage vehicles efficiently.
+Service Management: Incorporated a service module for scheduling maintenance, repairs, and other automotive
+services, enhancing the system's utility.
+Responsive Design: Ensured a visually appealing and functional experience across various devices, from desktops to
+mobile devices.
+Interactive Forms: Integrated user-friendly forms and interactive elements, optimizing user engagement and data
+input.
+Attendance Monitoring using QR Code and IOT Devices|Firebase Auth,Firestore,Android
+Studio,Websocket,ESP32(hardware),Mobile Devices(hardware)
+Firebase Integration: Utilized Firebase Authentication for secure user authentication and Firestore as a NoSQL
+database for efficient data storage.
+Android Application: Developed an Android application catering to students and teachers, allowing students to mark
+attendance by scanning QR codes, eliminating the need for manual processes.
+IoT Device (ESP32): Implemented an ESP32-based local access point, running a WebSocket server for location-
+based authentication. This ensures the accuracy of attendance by verifying the presence of students in designated
+areas.
+Security Measures: Leveraged Firebase services to ensure robust authentication mechanisms, safeguarding user
+credentials, and maintaining data integrity.
+Fraud Detection: Addressed the need for an automated attendance system to eliminate manual processes and detect
+fraudulent activities.
+ManG's Cakes-Cake Ordering System |HTML,CSS,JavaScript,PHP,MySQL,VSCode,Xampp
+Ordering System: Streamlined the cake ordering process, allowing customers to easily browse, select, and customize
+their cake preferences.
+User-Friendly Interface: Designed an aesthetically pleasing and intuitive interface to enhance the overall user
+experience, reflecting the brand's identity.
+Responsive Design: Ensured the system's adaptability across diverse devices, including desktops, tablets, and
+smartphones.
+Interactive Forms: Integrated user-friendly forms and interactive elements, simplifying the order placement and
+customization process.Vaibhavi Ladhe
+07666889867 | vaibhaviladhe@gmail.com | PUNE, MaharashtraFoodMine - Food Ordering System| HTML,CSS,JavaScript,PHP,MySQL,VSCode,Xampp
+Ordering Platform: Created a streamlined system for users to browse, select, and customize food orders, enhancing
+the overall ordering experience.
+User-Friendly Interface: Designed a visually appealing and intuitive interface, reflecting the brand's identity and making
+the ordering process enjoyable for users.
+Responsive Design: Ensured adaptability across different devices, including desktops, tablets, and smartphones, for a
+seamless user experience.
+Personalization: Integrated features for personalized menus and order history, providing users with a tailored and
+efficient ordering experience.
+Certificates
+ISO:C Programming, ISO:Core Java Programming, ISO:Advance Java Programming, ISO:Android Programming,
+Udemy:Complete Web Developer Course
+Languages
+English, Hindi, Marathi

@@ -1,0 +1,58 @@
+ HARSH HARSHIT SANCHANIYA  
+ 
+                       +919 02227417  | harsh2003sanchaniya@gmail.com  | LinkedIn -Harsh Sanchaniya  | 
+ 
+EDUCATION    
+   Marathwada Mitramandal’s College of Engineering  
+   Pune - 411057  
+   Bachelor Of Engineering in Information Technology   
+2021 -2025  
+GPA:  8.94  
+ 
+ 
+TECHNICAL SKILLS   
+ 
+Languages and Frameworks: JavaScript, HTML/CSS, Python, C++, TypeScript, React.JS, FastAPI, Django              
+Developer Tools:  Visual  Studio Code,  Google  Colab,  Kaggle,  Git, GitHub,  Jupyter,  PyCharm.  
+Libraries:  OpenCV, Pandas, NumPy, Matplotlib, Scikit -Learn.  
+ Environments:  Ubuntu,  Windows , Mac  
+Soft Skills:  Leadership,  Teamwork,  Communication,  Adaptability,  Problem -Solving,  Analytical -skills  
+ 
+EXPERIENCE   
+    
+   GIS Intern at Varaha ClimateAg Pvt Ltd , Bengaluru, Karnataka                                   Dec.202 3 - Mar.2024  
+ 
+• Proficiently annotated over 1000 satellite images and meticulously prepared structured datasets, ensuring 
+accuracy and adherence to labelling  standards, to support the development of machine learning models 
+for agricultural and environmental applications . 
+ 
+   Web Dev elopment  Intern  at Elite Softwares , Pune, Maharashtra, Indi a 
+ 
+• Learned  Full Stack  Web Development  along  with Python and  Django  Framework.  
+• Engineered and deployed a highly scalable web application with an automated deployment environment,  
+resulting  in a 40% reduction in deployment  time and increased  client  satisfaction.  
+ 
+PROJECTS    
+Python  powered  AI Desktop  Assistant  | OpenAI  API, Python,  PyCharm  Jun.2023  
+ 
+• Developed a Python -based AI desktop assistant utilizing OpenAI API to provide personalized chatbot  
+capabilities, offering natural  language  interaction  and task  automation.  
+• Integrated speech synthesis capabilities to enable the assistant to engage in human -like conversations,  
+enhancing  user interaction and  functionality  beyond standard chatbots . 
+ 
+AI Virtual  Whiteboard  | OpenCV,  Mediapipe,  Python,  PyCharm  Nov.2022  
+ 
+• Developed an AI -powered virtual whiteboard, enabling real -time hand gesture recognition through a  
+webcam  to draw  and write on a  digital  canvas.  
+• Implemented  computer  vision  techniques  to track  hand  movements  accurately,  transforming  the traditional  
+whiteboard experience into an interactive and intuitive digital platform for presentations, resulted in 25%  
+reduction  in presentation  preparation  time.  
+ 
+HONOURS  / ACHIEVEMENTS     
+• Member  Of Institute  of Electrical and  Electronics  Engineers  (IEEE).  
+• Successfully completed two certification programs, Crash course on Python offered by Google and  
+Supervised Machine Learning: Regression and Classification, offered by DeepLearning.AI and Stanford  
+University  through Coursera.  
+• Secured Runner up Position in a Startup Ideathon event arranged by MES College of Engineering, Pune.  
+(Startup  idea was  based  on revolutionizing automotive  industry  by integrating software  solutions)  
+• Engaged  in a hands -on GitHub  Workshop  organized  by the IEEE  club,  actively  collaborating  with peers.  Nov.2022 - Jan.2023  

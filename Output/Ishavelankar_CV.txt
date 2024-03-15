@@ -1,0 +1,146 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 1 of 1 
+ 
+ Isha  Velankar  
+ 
+Email: ishavelankar2021.it@mmcoe.edu.in   
+Ph: +91 9 860539406  
+LinkedIn :https://www.linkedin.com/in/isha -velankar -
+5b199026a  Current Address:  
+A-705, Floria, SunCity Road   
+ -Pune  Maharashtra – 411021  
+ 
+ 
+• Intend to build a career with leading industries with committed & dedicated people, 
+which will help me to explore myself fully and realize my potential.  
+• Willing to work as a key player in challenging & creative environment, in which I can 
+contribute for potential growth of company with my qualification.   
+• I can vouch for the fact that I am a fast learner, highly -motivated, team -player and I 
+am always open to learn.  
+• I am eager to gain practical experience and contribute to a dynamic work 
+environment.  
+ 
+➢ 10th Grade:  
+▪ School : Parents’ Association English Medium School  
+▪ Percentage:  96%  
+ 
+➢ 12th Grade:  
+▪ College:  Parents’ Association College of Science  
+▪ Percentage:  97.17%  
+ 
+➢ Bachelor’s in Information Technology:     [Expected Graduation June 2025]  
+o FE IT:  
+▪ CGPA:  9.75  
+ 
+o SE IT:  
+▪ CGPA:  9.07  
+ 
+1. Programming Languages :  
+C, C++ ,Java ,python , machine learning (intermediate)  
+2.  Database:  
+MySQL , MongoDB  
+3. Microsoft Tools:  
+Basic Knowledge in MS Excel, MySQL Excel, MS Word ,PowerBI(basic)  
+4. UI Tools:  
+HTML, CSS , PHP(basic) , Javascript(basic).  Career Objective  
+      
+Technical Skills  
+ Educational Qualification  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 2 of 2 
+ 
+  
+ 
+                                                                                
+Project 1 :              
+➢ Name : UAPI(User Application Programmable Interface) – Student Result Management 
+System.  
+➢ Description:  UAPI is Student Result Management System consisting of functions 
+implemented to manage the students’ overall yearly result. A database has been taken from 
+the college and the system is application is implemented on the test cases. It handle two users 
+namely the student and the faculty, the difference is faculty can access the whole system,  enter 
+marks and generate the result profile whereas the student can only view the result.   
+➢ Role: Front End development , PHP(basic) . The general design, the construction of the logo, 
+and website transitions are all handled in front -end development, whilst I oversaw the 
+building of the entire database in back -end development.  
+➢ Contribution:  
+• Gathering the students’ database from the college.  
+• Designing real time test cases with the help of college faculty.  
+➢ Tools: HTML, CSS, PHP, MySQL, xamp p. 
+Project 2 :           
+➢ Name : Aero: Airline Ticket Reservation System   
+➢ Description:  Aero is an Airways Registration System. It is a DBMS project which hold the 
+database of the flights that have taken off, landed, booked, cancelled, etc. It consists of CURD 
+functions. It has two interfaces admin and the user the admin has whole control ove r the 
+system whereas the user can only book and cancel the flights.     
+➢ Role: Front End development, PHP(basic) . The general design, and website transitions are all 
+handled in front -end development, but in back -end development, I was in charge of building 
+and managing the database, I also played a small role in managing the CURD operations.  
+➢ Contribution:  
+• Creating a database and gathering the required data.  
+• Testing the CURD functions.  
+➢ Tools: HTML, CSS, PHP, MySQL, xampp.  
+Project3:  
+ 
+➢ Name:  SIEM and cybersecurity data.  
+➢ Description: Cybersecurity data is available in the form of logs from various devices like 
+Windows security events , Linux logs, Firewall devices, IDS/IPS devices, Anti -virus logs etc.  
+Used SIEM tool Splunk for the analysis of Windows event logs to identify possible brute force 
+attack, analyzing of firewall logs for IP blacklisting also created dashboard visualization to be 
+monitored by operations team.  
+➢ Role:  Collection of logs , creations of visualizations like piechart,linecharts,etc in dashboard 
+panels.  
+➢ Contribution:  
+• Collection of logs  
+• Creating visualizations  
+➢ Tools: Splunk. (enterprise and forwarder).  Projects   
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 3 of 3 
+ 
+  
+ 
+ 
+• Institute of Engineers India(IEI) Pune Local Centre Journal  
+Isha Velankar, Nishita Bhagwat, Atharva Phadke, Ashish Joshi, Dr. Bharati Vasgi: 
+“Development of an Online Community and Collaboration Platform for NGOs and Disaster 
+Management”  
+• Certification in Database management systems from Nptel.  
+ 
+ 
+• Father’s Name:   Shivaji Velankar  
+• Mother’s Name:   Sanika Velankar  
+• Date of Birth:   06th Nov , 2003  
+• Gender:                 Female  
+• Marital Status:   Single  
+• Nationality:   Indian  
+• Linguistic ability:                English, Marathi, Hindi  
+• Strength:   Teamwork , Adaptability , Optimism, Hard working  
+• Hobbies:                               Badminton, Trekking, Travelling.  
+ 
+ 
+Declaration:  
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief.  
+Place:  Pune  
+            
+(Isha Velankar ) Person al Profile  
+ 
+ 
+ 
+      Public ations and Certifications  

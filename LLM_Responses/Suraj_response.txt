@@ -1,0 +1,78 @@
+  <div class="workExperience">
+## Work Experience
+</div>
+- Web Development Intern at Elite Softwares
+- Internship from Feb'23 to May'23
+- Worked on a transformative experience, delved into various technologies like HTML, CSS, and frameworks such as Bootstrap, working on real projects allowed me to witness my contributions in action and strengthen my problem-solving abilities.
+- Collaborating with seasoned developers and designers enhanced my communication skills.
+- The hands-on experience with cutting-edge technologies like HTML5, CSS3, JavaScript, and Bootstrap helped me grow and navigate the industry.
+
+<div class="projects">
+## Projects
+</div>
+- **Blood Bank Management System**
+- Jul'22 to Oct'22
+- Languages and Technologies used: HTML, CSS, JavaScript, MySQL, PHP, VSCode, XAMPP
+- Designed a user-friendly front-end visually appealing front-end interface.
+- UI Design: Created an intuitive and visually appealing front-end interface.
+- Responsive Design: Ensured accessibility across various devices and screen sizes.
+- Integration: Integrated user-friendly forms and functions for seamless interaction.
+- Documentation: Developed an efficient and user-friendly helpdesk management system.
+- **E-Commerce Website**
+- Mar'23 to May'23
+- Languages and Technologies used: HTML5, CSS3, JavaScript, Bootstrap, MySQL, XAMPP
+- Data Modeling: Developed an effective data model to organize and manage product information.
+- User Interface: Designed a responsive and user-friendly front-end interface.
+- E-commerce architecture: Designed a robust, scalable database architecture for the E-commerce platform.
+- Normalization: Ensured the database was normalized, reducing redundancy, improving data integrity.
+- Collaboration with Development Team: Worked closely with front-end and back-end developers to integrate the database seamlessly into the overall system.
+- **Social Media Web-App**
+- Oct'22 to Ongoing
+- Languages and Technologies used: MongoDB, ExpressJS, ReactJS, NodeJS, VSCode, MongoDB Atlas
+- Back-end Development: Collaborated with the team in developing the back-end of a social media web application using Node.js and Express.js.
+- User Authentication: Led the integration of MongoDB, designing schemas and ensuring efficient data storage and retrieval.
+- Documentation: Maintained clear and comprehensive documentation, facilitating seamless collaboration and future development.
+
+<div class="skills">
+## Skills/Technical Skills
+</div>
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL
+- MongoDB
+- ExpressJS
+- ReactJS
+- NodeJS
+- Git
+- GitHub
+- VSCode
+- XAMPP
+- Figma
+- Jira
+- Trello
+- Asana
+- Slack
+- Microsoft Office Suite
+- Data Structures
+- Machine Learning
+- Data Science
+- Database Management
+</div>
+
+<div class="gapsIdentified">
+## Gaps Identified
+</div>
+- Lack of information on job experience prior to the internship at Elite Softwares.
+- No mention of salary expectations or desired job level.
+- Limited information on technical skills and proficiency in specific programming languages or frameworks.
+
+<div class="tailoredRecommendations">
+## Tailored Recommendations
+</div>
+- **Work Experience**: Consider including any relevant work experience, even if it is not directly related to your field of interest. This could include internships, volunteer work, or other experiences that have helped you develop skills and knowledge that are relevant to your career goals.
+- **Skills/Technical Skills**: Provide more detail about your technical skills, including proficiency in specific programming languages, frameworks, and tools. This will help potential employers assess your qualifications for specific roles.
+- **Gaps**: Address the gaps in your resume by providing additional information or clarifying any不明な点. For example, you could explain why you have limited work experience or why you are not including salary expectations.
+- **Tailored Recommendations**: Consider providing more specific and actionable recommendations for each identified gap. For example, you could suggest specific ways to improve your resume or provide resources that can help you develop the skills you need to achieve your career goals.

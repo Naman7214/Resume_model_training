@@ -1,0 +1,122 @@
+Karvenagar, Punerohanfargade2021.it@mmcoe.edu.in+91 8275695385ROHAN FARGADE
+PROFILE
+EXPERIENCE EDUCATION
+VOLUNTEERING
+EXPERIENCEDedicated and enthusiastic third year IT engineering student seeking an internship opportunity to
+gain hands-on experience and apply technical skills in a professional environment. Passionate about
+technology and problem-solving with strong theoretical knowledge of programming, databases, Cloud
+and AI/ML. Motivated to contribute value through continuous learning, effective collaboration and
+delivering quality work.
+BE IT                             | 2021-2025
+MMCOE
+Grades : SE 8.22 SGPABE IT (2025),
+Front-end Developer,
+Cloud begineer,
+AI/ML begineerRohan Fargade
+rohanfargade
+HSC                               | 2021
+RJC, Ahmednagar
+Grades : 94.33%
+SSC                               | 2019
+RMB, Ahmednagar
+Grades : 90.80%
+President - ACM Student Chapter (AY 2023-24)
+AI&ML Co-head - IT TECH CLUB (AY 2022-23)
+Member -  IT Student Association (AY 2022-23)
+KEY COURSESTECHNICAL SKILLS
+Software/Tools : 
+MS VS Code, Github, Figma, Canva.
+Programming Languages :
+HTML, CSS, Python.
+Basics of OOP language
+Database and Framework :
+MySQL and SQLite, MongoDB
+NON-TECHNICAL SKILLS
+Good Communication, Team Work, Time
+Management, Project Management,
+Problem Solving, Attention to Detail, Good
+Listening, Adaptability.CERTIFICATION BY UDEMY IN : HTML ,CSS ,
+JAVASCRIPT ,PHP
+CERTIFICATION BY CICSO IN : CYBERSECURITY,
+CYBER_ESSENTIALS , PACKET TRACER ,CLOUDWorked on different web, app and
+AI/ML projects.
+Volunteering experience as a part of
+different clubs in college.
+Virtual intern experience in AI/ML ,
+Big Data and Cloud Computing.
+HOBBIES
+CHESS : 
+Avid chess player, honing strategic
+thinking and problem-solving skills
+through participating in local
+tournaments and online matches.AWS CLOUD FOUNDATION BY AWS ACADEMY 
+AI_BOOTCAMP BY INTEL DIGITAL READINESS
+AND HELMET DETECTION PROJECT1)
+2)
+3)
+4)Basics of Data Structure 
+5)CERTIFICATION BY TCS IQ ON : SOFT SKILLS
+ONGOING KEY
+SPECIALIZATION 
+COURSERA CRTIFICATION IN :
+1) AWS CLOUD SPECIALIZATION
+2) AI FOR EVERONE (DEEPLEARNING.AI)
+3) ML SPECIALIZATIONPROJECTS
+Technical :
+1) Saarthi- The AI Assistant 
+(Team project : SIH 2023) :
+We created the AI-ML based
+model(chatbot) which gives self-
+indentification of mental health status
+and gives guidance for support.
+Technology Used : Langchain, Streamlit,
+LLM, OpenCV, VGG16, Bird Data
+Pipelines.
+2) ConnectIT- Depratment Dashboard
+for IT (Team Project : PBL 2023) : 
+It is a deparment dashboard for IT
+department which include
+functionalities like events happening in
+the department, daily schedule, daily
+attendance monitoring, students and
+faculty details, etc.
+Technology used : HTML, CSS, ReactJS,
+MySQL
+3) ScareCrow- Cultivating Welfare for
+Farmers(Team Project 2023)
+This is a website for farmers welfare
+which include all the functionalities like
+live market, crop recommendation, pest
+detction and prevention techniques,etc
+Technology Used : HTML, CSS,
+Bootstrap, Javascript, Mongodb
+Non-Technical : 
+1) Miniature Hydroelectric Powerplant
+(Team Project : PBL 2022) :
+It is an self innovated idea of making a
+hydrelectric plant for society based, we
+make one prototype for it, this idea got
+first price in UDAAN festival held in
+MMCOE. This project is submitted for
+petant purpose by our college.ACHIEVEMENTS 
+1) Achieved first rank in ITspeedHack, a
+departmental hackathon 2023
+This is departmental hackathon done in
+our college where I won first price in
+database designing domain. I have
+designed the database for hotel
+management by using MySQL.
+2) Team Selected for SIH’23 in Internal
+Hackathon 2023 held in college
+Internal Hackathon held in college in
+which our team secured 10th rank
+amongst 75 total teams. The project
+‘Saarthi’ was developed in this hackathon.
+3) Achieved first rank in UDAAN
+Competition (Non-technical) 2022
+UDAAN is a intercollege project/idea
+competition, where I presented my
+working idea and prototype of
+hydroelectric powerplant that gives idea to
+generate electricity required for society
+purpose. 

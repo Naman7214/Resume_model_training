@@ -1,0 +1,39 @@
+Harshvardhan Grandhi
+/githubgithub.com/hvsgrandhi /linkedinlinkedin.com/in/harshvardhangrandhi /envel⌢peharshvardhang03@gmail.com
+Education
+Marathwada Mitra Mandal’s College of Engineering, Pune June 2025
+Bachelor of Engineering in Information Technology Current GPA: 8.84
+Work Experience
+SuperEasy |Intern - Backend Developer Nov 2023 - Jan 2024
+Learned about Tailwind CSS, ReactJS, NextJS, Golang (Handling Middleware)
+Skills
+Languages : C/C++, Python, Java, Golang
+Web Dev : HTML, CSS, JavaScript, ReactJS, NodeJS, Flask, NextJS
+Database : MySQL, SQLite, MongoDB
+Cloud Services : Amazon Web Services, Firebase
+Dev Tools : Git, VS Code
+Blockchain : Solidity, Smart Contract, Ethereum Network, MetaMask
+Projects
+Video Calling WebApp (ongoing) |AWS, NodeJS, ReactJS, MongoDB, WebRTC, Socket.io Feb 2024
+•A small project similar to how Google Meet/ Zoom works
+•A fast browser-to-browser connection without a server
+•Features like screen sharing, real-time chat
+•Currently, peer-to-peer connection calling
+•Future scope is to build a multi-user video calling WebApp
+QR Based Attendance System |AWS, Flask, Git, SQLite, Jinja Templating, JavaScript, GeminiAI Jan 2024
+•Team project for our college
+•A lightweight Flask application used to replace the traditional method of attendance with excellent
+analytics
+•Learned how to use AWS, Flask, and management of data
+Department Dashboard |Firebase, ReactJS, ChartJS, Git May 2023
+•Team project for IT Department of our college
+•A simple dashboard to get information about the IT Department of our college
+•All the information about faculty, students, and great visualization of placements
+•Implemented a unique anonymous feedback system allowing students to provide their input
+Awards
+SIH 2023 |Secured 3rd position in institute level Sep 2023
+SIH 2022 |Finalist at Smart India Hackathon 2022 Aug 2022
+Position of Responsibilities
+•Technical Event Manager at ACM Student Chapter, MMCOE
+•Project Manager at Microsoft Learn Students Club, MMCOE
+•Web Development - Cohead at IT Tech Club, MMCOE

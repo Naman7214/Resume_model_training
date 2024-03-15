@@ -1,0 +1,48 @@
+  <div class="workExperience">
+**Work Experience**
+- **XYZ Company**
+  - Software Engineer
+  - 2020-Present
+  - Developed and maintained software applications for the company's clients.
+  - Worked on a team of engineers to design, develop, and test new software features.
+  - Collaborated with other teams to ensure that the software applications were integrated with the company's other systems.
+- **ABC Company**
+  - Software Engineer Intern
+  - 2019-2020
+  - Developed and tested software applications for the company's internal use.
+  - Worked on a team of engineers to design, develop, and test new software features.
+  - Gained experience in the software development process and learned new programming languages and technologies.
+</div>
+<div class="projects">
+**Projects**
+- **Online Examination System**
+  - Developed a web-based online examination system using PHP and MySQL.
+  - The system allows users to create and take exams, and it automatically grades the exams.
+- **Library Management System**
+  - Developed a desktop application for managing a library.
+  - The system allows users to add, edit, and delete books, as well as track who has borrowed books.
+- **E-Commerce Website**
+  - Developed an e-commerce website using HTML, CSS, JavaScript, and PHP.
+  - The website allows users to browse products, add items to their carts, and checkout.
+</div>
+<div class="skills">
+**Skills**
+- Programming Languages: Python, Java, C++, C
+- Web Technologies: HTML, CSS, JavaScript
+-Databases: MySQL, MongoDB
+-Version Control: Git
+-Project Management: Jira, Trello
+-Communication: English, Marathi, Hindi
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- The resume does not include a summary of the applicant's skills and experience.
+- The resume does not include any information about the applicant's salary expectations.
+- The resume does not include any information about the applicant's job experience level.
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- Add a summary of your skills and experience to the top of your resume. This will give employers a quick overview of your qualifications.
+- Include information about your salary expectations in your resume. This will help employers determine if you are a good fit for their budget.
+- Include information about your job experience level in your resume. This will help employers determine if you have the necessary experience for the job.
+</div>

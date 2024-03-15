@@ -1,0 +1,49 @@
+  <div class="workExperience">
+**Work Experience**
+- Currently pursuing AI ML training from Unnati.
+- Virtual Internship in Embedded Systems in ERTXTE INFORMATION TECHNOLOGY.
+- Machine Learning Basics with LinkedIn Learning.
+</div>
+
+<div class="projects">
+**Projects**
+- Publicity Head of Aadhar Social Club of MCOE.
+- Member of CSI community.
+- Participated in I4crHackathon Finalist.
+- 2022 Smart India Hackathon Finalist.
+- Participated in L'Oreal Sustainability Challenge 2023.
+- Library Management System using Netbeans and JDB.
+- Microwave oven simulation using pic16f877a microprocessor and PICsimLab simulator.
+- Study chatbot for students.
+</div>
+
+<div class="skills">
+**Skills/Technical Skills**
+- C++/Python.
+- DBMS.SQL, MongoDB.
+- Basics of Embedded System.
+- Adaptability.
+- Communication.
+- Problem-solving.
+- Teamwork.
+- Visionary.
+</div>
+
+<div class="gapsIdentified">
+**Gaps Identified**
+- Lack of professional work experience.
+- Limited information about projects.
+- No mention of internships or volunteer work.
+- Lack of specific technical skills.
+- Inconsistent formatting.
+</div>
+
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- Add a summary of your skills and experience at the beginning of your resume.
+- Include more details about your projects, such as your role, responsibilities, and accomplishments.
+- List any relevant internships or volunteer work you have completed.
+- Include more specific technical skills, such as programming languages, frameworks, and tools you have experience with.
+- Use consistent formatting throughout your resume.
+- Proofread your resume carefully for any errors.
+</div>

@@ -1,0 +1,73 @@
+Suraj G. Magdum
+Pune,Maharashtra411052
++917972135247 surajmagdum408@gmail.com linkedin.com/in/suraj-magdum github.com/Dot-Awesome
+Education
+Savitribai Phule Pune University (8.8 CGPA) 2021 – Ongoing
+BachelorofEngineeringinInformationTechnology Pune,Maharashtra
+State Board of Higher Secondary Education (96.83%) 2019 – 2021
+Smt.CHMCollegeofScience,CommerceandArts,Ulhasnagar Mumbai,Maharashtra
+State Board of Secondary Education (92.80%) 2007 – 2019
+FatimaHighSchool,Badlapur Mumbai,Maharashtra
+Relevant Coursework
+•
+JavaDevelopment
+•
+DataStructures
+•
+DatabaseManagement
+•
+MachineLearning
+Experience
+Internship at Elite Softwares Feb’ 23 – May’ 23
+(WebDevelopmentIntern)
+•
+TheWebDevelopmentInternshipwasatransformativeexperience.Idelvedintovarioustechnologies
+likeHTML,CSSandframeworkssuchasBootstrap.Workingonrealprojectsallowedmetowitness
+mycontributionsinactionandstrengthenedmyproblemsolvingabilities.
+•
+Collaboratingwithseasoneddevelopersanddesignerstaughtmeeffectiveteamworkandcommunication.
+RegularFeedbackhelpedmegrowandnetworkingopportunitiesbroadenedmyhorizonsintheindustry.
+Projects
+BloodBank Management System | HTML,CSS,Javascript,MySQL,PHP, VSCode,Xampp July’ 22 – Oct’ 23
+•
+UIDesign:Createdanintuitiveandvisuallyappealingfront-endinterface.
+•
+ResponsiveDesign:Ensuredaccessibilityacrossvariousdevicesandscreensizes.
+•
+Interactivefeatures:Integrateduser-friendlyformsandfunctionalitiesforseamlessinteraction.
+•
+Outcome:ContributedtoanefficientandvisuallypleasingBloodBankManagementSystem.
+E-Commerce Website | HTML,CSS,Javascript,Bootstrap,MySQL,PHP,VSCode,Xampp Mar’ 23 – May’ 23
+•
+Databasearchitecture:Designedarobust,scalabledatabasearchitecturefortheE-Commerceplatform.
+•
+DataModeling:Developedanefficientdatamodeltoorganizeandmanageproductinformation,
+userdata,etc.
+•
+Normalization:Ensuredthedatabasewasnormalized,reducingredundancy,improvingdata
+integrity.
+•
+CollaborationwithDevelopmentTeam:Workedcloselywithfront-endandback-enddevelopersto
+integratethedatabaseseamlesslyintotheoverallsystem.
+Social Media Web-App | MongoDB, Express.Js, React.Js, Node.Js, VSCode, MongoDB Atlas Oct’ 23 – Ongoing
+•
+Back-endDevelopment:Collaboratedwiththeteamindevelopingthebackendserver ,including
+userauthernticationanddatabaseintegrationsusingNode.JsandExpress.Js
+•
+DatabaseIntegration:LedtheintegrationofMongoDB,designingschemasandensuringefficient
+datastorageandretrieval
+•
+Documentation:Maintainedclearandcomprehensivedocumentation,facilitatingseamless
+collaborationandfuturedevelopment.
+Extra-curricular
+Information Technology Students’ Association(ITSA) |Member Aug’ 22 – July’ 23
+•
+LearnedaboutEventCoordination,KnowlegdeSharing,WorkshopFacilitation
+TeamCollaboration,etc.
+•
+ContributedsignificantlytothegrowthandvibrancyoftheITStudents’Association,leavinga
+positiveimpactonbothindividualmembersandtheassociationasawhole.
+Information Technology Students’ Association(ITSA) |Vice-President Aug’ 23 – Ongoing
+•
+ExperiencedEventPlanningandExecution,StrategicLeadership,TeamManagement,
+ConflictResolutionandCollaborationwithExternalOrganiztaions.

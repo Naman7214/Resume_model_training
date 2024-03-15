@@ -1,0 +1,31 @@
+  <div class="workExperience">
+**Work Experience**
+- Software Engineer Intern at XYZ Company (May 2022 - August 2022)
+- Developed and maintained software applications
+- Worked on a team of engineers to design and implement new features
+- Gained experience in the software development process
+</div>
+<div class="projects">
+**Projects**
+- Developed a mobile app that allows users to track their spending
+- Created a website for a local business
+- Designed a logo for a new company
+</div>
+<div class="skills">
+**Skills**
+- Programming languages: Java, Python, C++
+- Software: Microsoft Office, Google Suite, Adobe Photoshop
+- Technical skills: AWS, Azure, Docker, Kubernetes
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- Lack of experience in a professional setting
+- Limited knowledge of some programming languages
+- Need to improve communication skills
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- Gain experience through internships or part-time jobs
+- Take online courses to learn new programming languages
+- Improve communication skills by taking a public speaking class or joining a debate team
+</div>

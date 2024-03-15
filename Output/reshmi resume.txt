@@ -1,0 +1,65 @@
+Information Technology Engineering Student
+SUMMARY
+I am a fourth-year Information Technology Engineering student with a strong foundation in data analysis and a passion for becoming a 
+data scientist. My skills include MySQL for data querying and manipulation, as well as Java for backend development. I have gained 
+hands-on experience during web development internships, where I effectively collaborated with development teams. In addition to my 
+backend skills, I have a solid understanding of HTML, CSS, and JavaScript, which allows me to create responsive and visually appealing 
+data visualizations. I have also worked with statistical analysis tools such as Python utilizing libraries like Pandas and NumPy for data 
+manipulation and visualization, and conducting exploratory data analysis. I am also proficient in Tableau and have experience 
+connecting Tableau to different data sources, designing intuitive visualizations, and creating interactive dashboards that provide a clear 
+understanding of complex data. Moreover, my knowledge of project management and effective communication skills enables me to 
+deliver high-quality results and collaborate efficiently with cross-functional teams.
+EDUCATION
+SSC/ 10th standard -
+Abhinava Vidyalaya English Medium School
+Percentage : 89.40
+HSC/ 12th standard -
+Kalmadi Shamrao Institute (KHS)
+Percentage : 70.62
+Bachelor of Engineering, IT Engineering (on-going) -
+Savitribai Phule Pune University
+First Year SGPA : 9.68
+Second Year SGPA : 9.02
+Third Year 1st semester SGPA : 8.86
+SKILLS
+C, C++, Java, JavaScript, Python, HTML, XML, JavaScript, CSS,  Tableau, NodeJs (Beginner), ReactJs (Beginer), Jquery, Git(Beginner), 
+Platforms:  Visual Studio, Jupyter notebook, Windows, Linux
+Databases: Relational: MySQL, NoSQL: MongoDB
+EXPERIENCE
+Aarohi Events / Intern -
+Web Development Internship
+Oasis Infobyte / Intern -
+Web Development Internship
+PROJECTS
+Employee Management System 
+Healthcare Management System 
+Smart Selfie Image Recognition
+CERTIFICATIONSReshmi Kulkarni
+9823050301 reshmeekulkarnee@gmail.com LinkedIn/Reshmi
+Mar 2017Mar 2018
+Pune, India
+Feb 2019Feb 2020
+Pune, India
+Aug 2020Present
+Pune, India
+Mar 2023May 2023
+S5, Suchitra Terrace ,  Kothrud, Pune 411038
+Played a key role in developing their entire website from scratch in offline mode
+Created a visually appealing and responsive website that effectively showcased the company's services and events using HTML, 
+CSS, Bootstrap, and JavaScript
+Collaborated closely with the team to understand their requirements  
+Stipend for the internship was ten thousand per month.
+Contributed to the company's online presence and helped attract potential clients.
+Mar 2023Apr 2023
+Satya Niketan, South West New Delhi,110021
+Gained valuable hands-on experience in web development using HTML, CSS, and JavaScript
+Collaborating with the development team, I contributed to building interactive and user-friendly websites 
+Strengthened my skills in front-end technologies and acquired a deeper understanding of responsive design principles. 
+Had the opportunity to work on real-world projects, enhancing my problem-solving abilities and teamwork skills.
+Forage - Cognizant : Artificial Intelligence Virtual Program
+AWS academy :  Cloud computing on Amazon AWS
+Maharashtra State Board - Task Compusys - Advanced JAVA (ongoing)
+HackerRank - Verified Batch : SQL basic
+TechLearn - Swiggy : How to develop a Swiggy Chatbox
+Oasis Infobyte : 1 month Web Development Internship
+Aarohi Events : 2 months Website Development Internship

@@ -1,0 +1,82 @@
+  <div class="workExperience">
+<h2>Work Experience</h2>
+<ul>
+<li><strong>Position:</strong> Software Engineer</li>
+<li><strong>Company:</strong> XYZ Technologies</li>
+<li><strong>Dates Employed:</strong> December 2022 - January 2023</li>
+<li><strong>Location:</strong> Pune, Maharashtra</li>
+<li><strong>Responsibilities:</strong>
+<ul>
+<li>Worked on SaaS applications.</li>
+<li>Used HTML, CSS, JavaScript, and Bootstrap to create front-end applications.</li>
+<li>Collaborated with the development team to ensure quality code.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>Position:</strong> Web Developer</li>
+<li><strong>Company:</strong> ABC Company</li>
+<li><strong>Dates Employed:</strong> November 2022 - January 2023</li>
+<li><strong>Location:</strong> Remote</li>
+<li><strong>Responsibilities:</strong>
+<ul>
+<li>Worked on a team to design and develop websites.</li>
+<li>Used HTML, CSS, JavaScript, and Bootstrap to create responsive websites.</li>
+<li>Optimized websites for search engines.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div class="projects">
+<h2>Projects</h2>
+<ul>
+<li><strong>Project:</strong> LegalSathi</li>
+<li><strong>Description:</strong> A web application for legal research and documentation.</li>
+<li><strong>Technologies Used:</strong> HTML, CSS, JavaScript, Bootstrap, Python, Flask</li>
+<li><strong>Date Completed:</strong> September 2023</li>
+<li><strong>Project:</strong> MLSC Website</li>
+<li><strong>Description:</strong> A website for Microsoft Learn Student Club, MMCOE.</li>
+<li><strong>Technologies Used:</strong> HTML, CSS, JavaScript, GitHub, Figma</li>
+<li><strong>Date Completed:</strong> October 2023</li>
+<li><strong>Project:</strong> Diagnose</li>
+<li><strong>Description:</strong> A web application for health diagnosis using ML models.</li>
+<li><strong>Technologies Used:</strong> HTML, CSS, JavaScript, Flask, Various ML Models</li>
+<li><strong>Date Completed:</strong> April 2023</li>
+<li><strong>Project:</strong> GoodReads</li>
+<li><strong>Description:</strong> A web application for book lovers to manage books seamlessly.</li>
+<li><strong>Technologies Used:</strong> HTML, CSS, JavaScript, Bootstrap, Flask, PostgreSQL, SQLAlchemy</li>
+<li><strong>Date Completed:</strong> October 2022</li>
+<li><strong>Project:</strong> HeartMyHeart</li>
+<li><strong>Description:</strong> A web application for heart disease prediction using ML models.</li>
+<li><strong>Technologies Used:</strong> HTML, CSS, JavaScript, Bootstrap, Flask, Various ML Models</li>
+<li><strong>Date Completed:</strong> September 2022</li>
+</ul>
+</div>
+
+<div class="skills">
+<h2>Skills/Technical Skills</h2>
+<ul>
+<li>Programming Languages: Python, C/C++, Java, JavaScript</li>
+<li>Web Technologies: HTML, CSS, JavaScript, Bootstrap</li>
+<li>Frameworks: React, Node.js, Material-UI, Ant-Design, Flask</li>
+<li>Databases: PostgreSQL, MySQL</li>
+<li>Version Control: Git</li>
+<li>Cloud Platforms: AWS, Firebase</li>
+<li>Libraries: TensorFlow, Keras, Scikit-learn</li>
+</ul>
+</div>
+
+<div class="gapsIdentified">
+<h2>Gaps Identified</h2>
+<ul>
+<li>The work experience section could be improved by adding more details about the projects you worked on and the technologies you used.</li>
+<li>The skills section could be improved by adding more technical skills, such as programming languages, frameworks, and tools.</li>
+<li>The projects section could be improved by adding more details about the projects you worked on, the technologies you used, and the results you achieved.</li>
+</ul>
+</div>
+
+<div class="tailoredRecommendations">
+<h2>Tailored Recommendations</h2>
+<ul>
+<li>In the work experience section, add more details about the projects you worked on, such as the goals of the projects, the technologies you used, and the results you achieved. This will help potential employers see the impact you had

@@ -1,0 +1,39 @@
+  <html>
+<body>
+<h1>Summary</h1>
+<p>
+Rupali Susar Patil is a highly motivated and skilled engineering student with a strong academic background and a passion for innovation. She is currently pursuing her Bachelor of Engineering in Computer Science at MMCOE, where she has consistently maintained a high GPA. Rupali has a keen interest in the field of artificial intelligence and is eager to apply her knowledge and skills to solve real-world problems. She is also actively involved in extracurricular activities, such as volunteering and participating in hackathons, which has helped her develop strong teamwork and leadership skills.
+</p>
+<h2>Work Experience</h2>
+<ul>
+<li>Project on Blockchain Technology at Hackathon</li>
+<li>Developed NFT selling interface: Online mode- 48hrs</li>
+<li>Research on Online Procurement Technologies for Faster Service</li>
+<li>AI SHI Internal Hackathon 2022: Offline mode- 24 hrs</li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li>[1] Career Guidance System, "Developed for FMCII organization" in second year of engineering, 2022-2023.</li>
+<li>[2] Water Management System, "Developed for Model Making Competition (UDAAN)," first year of engineering, 2021-2022.</li>
+</ul>
+<h2>Skills</h2>
+<ul>
+<li>C++, Python, Javascript, MySQL, PHP, HTML, CSS,......</li>
+<li>Microsoft Office Tools, Google apps, Canva,.......</li>
+<li>English, Marathi, Hindi</li>
+<li>Creative Thinking, Problem Solving, Teamwork, Innovative Ideas,.....</li>
+</ul>
+<h2>Gaps Identified</h2>
+<ul>
+<li>The resume does not include any information about the applicant's salary expectations.</li>
+<li>The resume does not include any information about the applicant's level of job experience.</li>
+<li>The resume does not include any information about the applicant's field of interest.</li>
+</ul>
+<h2>Tailored Recommendations</h2>
+<ul>
+<li>The applicant should add a section to their resume that outlines their salary expectations.</li>
+<li>The applicant should add a section to their resume that outlines their level of job experience.</li>
+<li>The applicant should add a section to their resume that outlines their field of interest.</li>
+</ul>
+</body>
+</html>

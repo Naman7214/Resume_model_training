@@ -1,0 +1,48 @@
+  <div class="workExperience">
+**Work Experience**
+- **Hardware Engineer**
+  - Designed hardware schematics and PCB.
+  - Performed projects using Arduino, PCB designing using Proteus.
+  - Software Test Engineer
+  - Internship
+  - y Hills
+  - Feb 2023 - Apr 2023
+    - Learning web development and performing projects under mentor.
+    - We can publish our newspaper under this club with lots of benefits.
+    - Attend the seminares and learn new skills and developed communication skills.
+</div>
+<div class="projects">
+**Projects**
+- **Website for bed availability in hospital for emergency patient.**
+  - Created the front-end of website using HTML5, CSS3,JavaScript and python.
+  - Done was to inform farmer correct weather condition for cultivation of suitable crop.
+</div>
+<div class="skills">
+**Skills**
+- **Programming**
+  - Python,Javascript,C,C++,HTML,CSS,Matlab,Markdown
+- **Hardware Design**
+  - Multisim,pspice designing, Simulation, ModelSim, AltiumDesigner
+- **Communication**
+  - Marathi(native), English (business), Hindi(business), Japanese(beginner)
+- **Other**
+  - Github, Microsoft Office
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- The work experience section is not well-developed. It would be helpful to include more details about the projects you have worked on, such as the technologies you used, the challenges you faced, and the results you achieved.
+- The skills section is also not very detailed. It would be helpful to include a more comprehensive list of your skills, as well as your level of proficiency in each skill.
+- It would be helpful to include a section highlighting any relevant coursework or projects you have completed. This will help to demonstrate your academic achievements and how they relate to your career goals.
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- **Work Experience**
+  - Consider adding more details about your projects, such as the technologies you used, the challenges you faced, and the results you achieved.
+  - Consider quantifying your experience by including metrics such as the number of lines of code you have written, the number of projects you have completed, or the size of the teams you have worked with.
+- **Skills**
+  - Consider adding a more comprehensive list of your skills, as well as your level of proficiency in each skill.
+  - Consider using a skills matrix to visually represent your skills and their proficiency levels.
+- **Education**
+  - Consider adding a section highlighting any relevant coursework or projects you have completed.
+  - Consider including your GPA or other academic achievements.
+</div>

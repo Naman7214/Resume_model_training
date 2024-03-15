@@ -1,0 +1,33 @@
+  <div class="workExperience">
+**Work Experience**
+- Developed a Web Blog Application which allows us to write, read, update and delete blog posts using php and mysql database.
+- We made this system admin controlled. All user's activities are controlled by admin.
+- Developed a website using HTML, CSS and php.
+- This website provide total count of vaccinated people within certain organization or college.
+</div>
+<div class="projects">
+**Projects**
+- Organized one National level Bug off competition under Dextery and one state level Code Decipher Competition.
+</div>
+<div class="skills">
+**Skills**
+- Expertise area : Data Structure and Algorithms | Object-Oriented Programming | Mysql database | Frontend web development
+- Programming Languages and Technologies : C++ | JavaScript | Mysqli | HTML | CSS | Bootstrap | Canva | Git and Github
+- Technical Courses and Electives : Data Structures and Algorithms | Database Management Systems | Advance Database Management System | Discrete Mathematics | Operating Systems.
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- The resume does not specify the candidate's salary expectations.
+- The resume does not include any information about the candidate's work experience.
+- The resume does not include any information about the candidate's skills.
+- The resume does not include any information about the candidate's education.
+- The resume does not include any information about the candidate's certifications.
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- The candidate should add a section to their resume that specifies their salary expectations.
+- The candidate should add a section to their resume that highlights their work experience.
+- The candidate should add a section to their resume that highlights their skills.
+- The candidate should add a section to their resume that highlights their education.
+- The candidate should add a section to their resume that highlights their certifications.
+</div>

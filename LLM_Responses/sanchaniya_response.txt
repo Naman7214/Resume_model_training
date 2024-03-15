@@ -1,0 +1,61 @@
+  <div class="workExperience">
+**Work Experience**
+- GIS Intern at Varaha ClimateAq Pvt Ltd, Bengaluru, Karnataka
+- Web Development Intern at Elite Software, Pune, Maharashtra, India
+</div>
+
+<div class="projects">
+**Projects**
+- Python powered AI Desktop Assistant
+- Al Virtual Whiteboard
+</div>
+
+<div class="skills">
+**Skills/Technical Skills**
+- Python
+- C++
+- JavaScript
+- HTML/CSS
+- Git
+- Github
+- PyCharm
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Flask
+- Django
+- PostgreSQL
+- OpenCV
+- MediaPipe
+- PyGame
+- TensorFlow
+- Keras
+- Scikit-learn
+</div>
+
+<div class="gapsIdentified">
+**Gaps Identified**
+- Lack of information about the applicant's salary expectations and job experience level.
+- The applicant's resume does not include a summary or objective statement that highlights their career goals or interests.
+- The applicant's resume does not include any volunteer experience or extracurricular activities.
+</div>
+
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- Add a summary or objective statement to your resume that highlights your career goals or interests.
+- Include information about your salary expectations and job experience level.
+- List any volunteer experience or extracurricular activities that you have participated in.
+- Proofread your resume for any errors or inconsistencies.
+- Use keywords that are relevant to the job you are applying for.
+- Tailor your resume to each job you apply for.
+- Use a professional font and layout.
+- Keep your resume concise and easy to read.
+- Highlight your skills and experience that are most relevant to the job you are applying for.
+- Use action verbs to describe your work experience.
+- Quantify your accomplishments whenever possible.
+- Use bullet points to make your resume easy to read.
+- Avoid using too much jargon or technical terms.
+- Make sure your resume is error-free.
+</div>

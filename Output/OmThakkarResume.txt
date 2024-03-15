@@ -1,0 +1,53 @@
+Om Thakkar
++91-7448158105 |aumthakkar343@gmail.com |linkedin.com/in/omthakar343 |github.com/OmThakkar
+Education
+Marathwada Mitra Mandal’s College of Engineering, Pune 2021-2025
+Bachelor of Engineering in Computer Engineering CGPA : 9.02
+Technical Skills
+Languages : Python, C/C++, SQL (MySQL/Postgres), JavaScript, HTML/CSS, PHP, MongoDB
+Frameworks : React, Node.js, Material-UI, Mantine-UI, Tabler, Flowbite
+Developer Tools : Git, GitHub, MongoDB Atlas, Visual Studio Code, Canva, Figma, Whimsical, FileZilla
+Libraries : Tailwind, Bootstrap, Bulma
+Experience
+Equation Works December 2023 – January 2023
+Trainee Software Engineer Pune, Maharashtra
+•Work on SaaS applications
+•Use Figma, React, Chart.js, Tailwind as technologies for creating front-end of the Applications
+•Use MS Office 365 as Working Environment
+Symulcast IT Solutions Pvt. Ltd. November 2023 – January 2023
+Web Designer and Developer Pune, Maharashtra
+•Create Front-End Web Pages for Clients
+•Use HTML, CSS, Bootstrap, Figma technologies for designing and developing web pages.
+Projects
+LegalSathi |HTML, CSS, JavaScript, Bootstrap Sept 2023 – Oct 2023
+•An web application for legal assistance
+•Equipped with AI Tools such as Document Chat, Legal Summarizer, Legal Chatbot
+•Web Application consisting Legal Repository with all the laws of Indian Legal System in a user-friendly manner
+MLSC Website |React, Bootstrap, GitHub September 2023 – Oct 2023
+•Developed a website for Microsoft Learn Students Club, MMCOE
+•Lead the development team by delegation of tasks
+•Collaborated with the development team on GitHub
+Diagnoze |HTML, CSS, JavaScript, Bootstrap, GitHub, Various ML Models April 2023 – May 2023
+•Multi-disease prediction web application for hospitals and pathology labs
+•Integrated various AI models to predict multiple disease
+GoodReads |HTML, CSS, JavaScript, Bootstrap, GitHub, PHP Oct 2022 – Oct 2022
+•An user-friendly web application designed to issue and manage books seamlessly.
+•Implemented back-end using PHP
+HeartMyHeart |HTML, CSS, JavaScript, Bootstrap, GitHub, Various ML Models Sep 2022 – Sep 2022
+•Heart disease prediction web application for hospitals and pathology labs
+•Implemented decision trees and random forest for heart disease prediction
+Certifications
+•Spoken Tutorial - RDBMS Postgre Training Oct 2023
+•FreeCodeCamp - Responsive Web Design June 2023
+•Spoken Tutorial - Python 3.4.3 Apr 2023
+•Spoken Tutorial - C Nov 2022Positions of Responsibility
+•Development Head at Microsoft Learn Students Club, MMCOE
+•Web Cohort Member at Club of Developers and Engineers, MMCOE
+Achievements
+•VIT’s TechSpectra 2023, Tech Shark Tank Winner
+•Received an honorable mention at National Level IEEE RMC 2023 Ideathon and Pitchfest held at Haryana.
+•IEEE MMCOE Flagship Event Avinya 2k23 Winner
+•IEEE Pune Section, PBL project competition Winner
+•First Runner-Up of state-level project competition at IMCC, Pune
+•SIH Internal Hackathon Winner
+•First Runner-Up of F.A.C.E v4.0

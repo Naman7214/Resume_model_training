@@ -1,0 +1,34 @@
+SANIKA KHARADE
+kharadesanika@gmail.com
+https://leetcode.com/kharadesanika/
+https://github.com/sanikakharade
+https://www.codechef.com/users/sanikak26
+EDUCATION
+Marathwada Mitra Mandal’s College of Engineering, Pune Dec 2021 - Jun 2025
+Bachelor of Engineering, Information Technology CGPA: 8.36
+PROJECTS
+Social Working Organization Community Website
+A non-existing website that helps the user to get notifications about the NGOs they join
+and also helps different NGOs to collaborate. It also allows the user to search for nearby
+NGOs
+Amazon Clone website
+An eCommerce website like Amazon sells different electronic items and clothes. We can
+add items to the cart we wish to buy and also can wishlist a few items we want to pur-
+chase in the future.
+Office Desk Booking website
+Virtual Office seat booking website for the company employees and also scheduling meet-
+ings.
+ACTIVITIES
+Idhant Sustainable Education Organisation Present
+It enhances educational opportunities presented to underprivileged kids. We provided in-
+dividual children the chance at quality education by connecting willing sponsors to them.
+SKILLS
+Data Structures and Algorithms
+Programming Languages
+C++, Python, MySQL, JavaScript, HTML, CSS, Tailwind, Bootstrap
+POSITIONS OF RESPONSIBILITY/ACHIEVEMENTS
+Google Developer’s Student Club - Competitive Programming Co-Head
+Information Technology Student Association - Creative Team Member
+Solved over 400+ coding questions across different platforms
+Competitive Programmer
+2 star on CodeChef

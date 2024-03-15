@@ -1,0 +1,64 @@
+Naman Agnihotri
+Pune Maharastra namanagnihotri280@gmail.com 8830069926 https://github.com/Naman7214
+Education
+Marathwada Mitra Mandal’s College of Engineering, Pune Pune
+Bachelor of Engineering Information Technology GPA: 8.65 Dec 2021 - Jun 2025
+Work Experience
+Rinex Pune Maharastra
+AI/ML Intern Nov 2022 - Dec 2022
+•Learned and Developed skills and knowledge base in Deep learning using TensorFlow and Keras.
+•Developed few Deep Learning models for classiﬁcation and regression task using open source datasets
+from Kaggle.
+Skills
+Programming Languages: C, C++, Python, Java
+Machine Learning: TensorFlow, Pytorch, Scikit-learn, LangChain, LLMs( GPT, BERT, LlaMA, Gemini)
+Web Development: HTML, CSS, JavaScript, ReactJS, Flask, Django, NodeJS, ExpressJS, FAST API
+Database: MySQL, sqlite, MS SQL, MongoDB
+Cloud Services: AWS, Heroku, Azure
+Tools: VS code, Docker, Jupyter Notebook, Git
+Additional Libraries: Pickle, Joblib, Numpy, OpenCV2, Jinja Templating
+Projects
+QR based Attendance System HTML, CSS, JS, Flask, sqlite, AWS, Gemini https://itats.online
+Secure, easy and robust way to mark attendance for college students. Prevents students from marking fake
+attendance and provides entire digital dashboard for faculty to monitor various aspects of attendance and
+data.
+Career Guidance chatbot GuidoAI HTML, CSS, JS, Tailwind, Flask, Gemini, MongoDB
+A career counseling chatbot that guides students to decide which career they should pursue based on series of
+questions and answers. Also provide Skill Gap Analysis based on student 's resume.
+Video Calling WebApp MERN stack, WebRTC, socket.io
+A small light weight peer to peer video calling web app that allows two users to connect with each other. Also
+enables user 's share their screen and interact with each other with Real time chat.
+Emotion Detection using Neural Networks Python, TensorFlow, OpenCV2, PIL, Jupyter Notebook
+A simple Emotion Detection model developed for college event to take virtual feedback of participants and
+organizers just by looking at their face using OpenCV and Tensorﬂow. Also a collage of this feedback images
+were dynamically produced using PIL.
+Image Resolution Enhancer using ESRGAN Python, PyTorch, RRDB_NET
+A image resolution enhancer using Generative Adversarial Network that enhances resolution of any image by
+4x Times. Build onto an existing open source project and model.
+Diabetes detection using Machine Learning Scikit-learn, Python, Jupyter Notebook
+A simple diabetes detection model deployed onto website which takes series of questions and based on that
+provides the probability of user having Diabetes with good accuracy of 85%..
+Custom Model for Accident Detection. Scikit-Learn, Python, Jupyter Notebook
+A classical machine learning model which when provided with desired inputs provides the number fatalities
+possible for given scenario and also whether the accident will take place or not with strong accuracy of 97%.
+Proctoring system using Face Detection and Veriﬁcation alongside Behavior modeling. Python,
+OpenCV, Hara Cascade, FAST API, Javascript, TensorFlow
+Proctoring tool that can be integrated with any given website just by using our API. Features like Face
+Detection, Face veriﬁcation, Iris Tracking and Mobile Detections were used to Monitor the candidate.
+Additional features such as Copy-Paste Disabler and Full Screen Mode were applied to increase robustness of
+the system.
+Alzheimer Detection Using Brain Scans TensorFlow, Python
+Model based on artiﬁcial neural network was trained to classify the provided brain scan as Mild Demented,
+Moderate Demented, Non Demented or Very Mild Demented. Model uses VGG16 architecture and CNN
+layers to perform this classiﬁcation with accuracy of 82%.Object Detection using eﬃcientDET Model. Python, OpenCV2, TensorFlow
+An Live Object detector based on Google 's EﬃcientDET 2 model that can detect upto 91 objects in real time.
+Railway Ticket Booking Website HTML, CSS, Javascript, PHP, MySQL, Apache
+A small mini project done as a beginner which replicated railway ticket booking with entire search menu,
+session management and other user oriented features.
+Achievements
+ITSA President
+Recognized as President for Departmental Club ITSA
+ACM SC Vice-Chairperson
+Recognized as Vice-Chairperson in ACM SC for MMCOE.
+MicDrop Vice-Chairperson
+A podcast club exclusive for MMCOE.

@@ -1,0 +1,48 @@
+  <div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Data Science Intern at Syneva Tech, Pune
+      <ul>
+        <li>Worked as a data science intern where I got the opportunity to design and develop solutions in Python for the Times Series Forecasting project.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div class="projects">
+  <h2>Projects</h2>
+  <ul>
+    <li>Built an end-to-end project on price prediction. Used the bagalore house dataset from Kaggle and built an ML model using Linear Regression. Implemented the UI using Flask.</li>
+    <li>Image resizer using opencv</li>
+    <li>Detection of fake profiles</li>
+    <li>Identified open library of Python to build an image resizer using PIL</li>
+    <li>Used the opencv library of Python to build a model for identifying the plant name. Our team ended up getting selected among the top 30 teams of the college.(Rank:23)</li>
+  </ul>
+</div>
+<div class="skills">
+  <h2>Skills/Technical Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>C++</li>
+    <li>Java</ol>
+    <li>HTML</li>
+  </ul>
+</div>
+<div class="gapsIdentified">
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>No relevant work experience in the field of data science.</li>
+    <li>No open-source contributions.</li>
+    <li>Lack of projects in the field of data science.</li>
+  </ul>
+</div>
+<div class="tailoredRecommendations">
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Include more relevant work experience in the field of data science.</li>
+    <li>Contribute to open-source projects related to data science.</li>
+    <li>Complete more projects in the field of data science and include them in your resume.</li>
+    <li>Highlight your skills in data science more prominently in your resume.</li>
+    <li>Tailor your resume to the specific job you are applying for.</li>
+  </ul>
+</div>

@@ -1,0 +1,66 @@
+PRO FILE
+CONTACT ME
++91 9673009520
+shreyaskolharkar@gmail.com
+Pune, Maharashtra
+PROJECTS
+E-COMMERCE APPLICATION USING
+ANDROID STUDIO (GROBUZZ): IN
+PROGRESS
+A project that we created as a team. We used
+firebase, JAVA, etc. to develop the project.ANTI-PHISHING WEBSITE
+Our team developed this project using
+JavaScript, HTML, etc. This was a chrome
+extension.EDUCATION
+MARATHWADA MITRAMANDALS’
+COLLEGE OF ENGINEERING, PUNE
+BE in Information Technology, in
+progress.
+2024
+MAHARASHTRA INSTITUTE OF
+TECHNOLOGY, CHH. SAMBHAJINAGAR
+Diploma in Computer Engineering.
+93.94%
+2021
+MAHARASHTRA PUBLIC SCHOOL,
+CHH. SAMBHAJINAGAR
+Secondary Education, 85.60%
+2017SHIVCHHATRAPATI COLLEGE, CHH.
+SAMBHAJINAGAR
+Higher Secondary Education, 68%
+2019
+LANGUAGE
+Marathi, English, HindiSHREYAS S KOLHARKAR
+COMPUTER SKILLS
+C++
+MySQLHTML
+CERTIFICATIONS
+Red Hat Certified
+Engineer (RHCE)
+Red Hat Certified System
+Administrator (RHCSA)
+AD D ITIO N AL D ETAILS
+Information Technology
+Students Association ITSA
+(MMCOE)
+Indian Society for
+Technical Education ISTE
+(MMCOE)
+Active member of
+Chhatrapati Sambhajinagar
+Ploggers
+Active member of Vinit
+Abhedya FoundationINTERNSHIP
+REVIEW SCRAPPING MODULE USING
+PYTHON
+Project involves utilization of Python for
+fetching web pages containing review
+content.I have made contributions towards the development of an e-commerce
+application named 'Grobuzz,' leveraging Firebase and Java to create an
+intuitive user experience. Additionally, I have collaborated on an anti-phishing
+website, implemented as a Chrome extension using JavaScript and HTML.
+During my internship experience, I worked on a Python-based review scraping
+module for data extraction from various web sources.
+C
+CSS
+Python

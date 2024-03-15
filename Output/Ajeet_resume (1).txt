@@ -1,0 +1,53 @@
+AJEET  LOKHANDE  
+9420569466  | ajeetl.work@gmail.com  | www.linkedin.com/in/ajeet -lokhande -384193207  
+ 
+ 
+As an IT undergraduate with a passion for innovation, I a m eager to embark on a journey of practical learning 
+and professional growth.  I am committed to applying my th eoretical knowledge to real -world challenges, 
+contributing to dynamic teams, and expanding my skill set while delivering impactful solutions in the 
+field  of technology.  
+PROFESSIONAL EXPERIENCE  
+ 
+EFF OCESS TECHWORKS   (MAR 2023 – JUN 2023 ) 
+Mobile application design and development intern  
+• Developed UI/ UX interfaces for mobile applica tions.  
+• Designed Templates for Android  and IOS applications for mobil e applications.  
+• Desig ned and developed  Chatbot for t he mobile  appl ication . 
+• Skilled in designing tools like Figma  and developed cross platform apps with Flutter us ing Dart /Java . 
+ 
+ACM Student ’s Chapter MMC OE (AUG  2022 – AUG 20 23) 
+Event Manager (font -end)  
+• Conducted multiple events  online as well as o ffline  including hac kathons and social eve nts. 
+• Worked and administered to conduct multiple  Webinars.  
+EDUCATION  
+ 
+Marathwada Mitramandal ’s College of En gineering , Pune         (2020-2024) 
+   Course: Bachelor  of Engineering,  GPA: 8.52 (TE)  
+St. Xavier’s School and Junior  College   
+Higher Secondary School (HSC) – 62.62 %   (2018 -20) 
+Secondary School  (SSC) – 88.40%  (2017 -18) 
+SKILLS & OTHER  
+ 
+• Java 
+• Python  
+• JavaScrip t 
+• Google C loud  Platform  
+• Next.js  • React.js  
+• HTML  
+• Tailwind CSS  
+• Figma  
+• MySQL
+CERTIFIATIONS  
+ 
+• Google Cloud P rogram .  
+• Certificate for Completion  of Python training . (Spoken tutorial by IIT B)  
+• The Complete Python Bootcamp from Zero to Hero in Python . (Udemy)  
+PROJECTS  
+ 
+PERSONAL PORTFOLIO WEBSITE   
+• Developed  a Mobile -respons ive stunning portfolio  website with advance framer motions . 
+• Developed using N ext.js, tailwind CSS and dep loyed on Vercel . (Deployment  in process)  
+SOCIAL MEDIA MANAGER  
+• A Media Manager for  Instagram , Facebook, YouTube , etc. with  funct ionalities such as URL  shortener , 
+bulk posting , scheduler  and many more , will feature  a single analysis  dashboard  of all the content.  
+• Stack used:  MERN stack , Hootsuite, and Google Analytics . 

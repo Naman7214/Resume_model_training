@@ -1,0 +1,37 @@
+ <div class="workExperience">
+**Work Experience**
+- Foodmine: Platform Lead
+- Developed a streamlined system for users to browse, select, and customize food orders, enhancing the overall dining experience.
+- Responsive Design: Ensured adaptability across different devices, including desktops, tablets, and mobile devices.
+- User-Friendly Interface: Designed an intuitive interface to facilitate a seamless user experience.
+- Personalization: Implemented features for personalized menus and order history, providing users with a tailored and efficient ordering experience.
+</div>
+
+<div class="projects">
+**Projects**
+- Man's Cakes: Cake Ordering System
+- Automated the process of submitting and fulfilling cake orders, eliminating the need for manual processes and detecting fraudulent activities.
+- Ordering System: Designed a system to streamline the cake ordering process, allowing customers to easily browse, select, and customize their cake preferences.
+- Service Management: Incorporated a service module for scheduling maintenance, repairs, and other automotive services, enhancing the efficiency of the servicing process.
+- Responsive Design: Ensured a visually appealing and functional experience across various devices, from desktops to mobile devices.
+- Interactive Forms: Integrated user-friendly forms and interactive elements, optimizing user engagement and data input.
+</div>
+
+<div class="skills">
+**Skills**
+- SQL, Java, JavaScript, HTML, CSS, API Development, Data Structures
+</div>
+
+<div class="gapsIdentified">
+**Gaps Identified**
+- While the resume showcases a diverse range of technical skills, it would be beneficial to include additional details about the specific technologies and frameworks used in each project.
+- The work experience section could be expanded to highlight key achievements, responsibilities, and the impact of your contributions.
+- Consider including a summary or objective statement at the beginning of the resume to provide a concise overview of your career goals and aspirations.
+</div>
+
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- To enhance the resume's alignment with your interests in web development, consider including more information about your experience with specific programming languages, frameworks, and technologies.
+- When applying for positions in the web development field, it would be beneficial to highlight any relevant personal projects or hackathons that showcase your practical skills and passion for web development.
+- To improve the clarity and impact of your resume, consider using bullet points to list your skills and achievements, making it easier for recruiters to quickly scan and identify your qualifications.
+</div>

@@ -1,0 +1,64 @@
+  <div class="workExperience">
+**Work Experience**
+<ul>
+<li>Web Developer Intern
+S5, Suchitra Terrace, Kothrud, Pune 411038
+May 2023 - Present</li>
+<li>Created a visually appealing and responsive website that effectively showcased the company's services and products.
+Contributed to the company's online presence and helped attract potential clients.
+Collaborated closely with the development team to ensure requirements were met.
+Supported the internship team of ten and shared valuable insights.</li>
+<li>Oasis Infobyte / Intern
+Satya Niketan, South West New Delhi, 110021
+Mar 2023 - Apr 2023</li>
+<li>Gained valuable hands-on experience in web development using HTML, CSS, and JavaScript.
+Contributed to building interactive and user-friendly websites.
+Worked closely with the development team, contributing to building responsive design principles.
+Strengthened my skills in front-end technologies and acquired a deeper understanding of responsive design principles.
+Had the opportunity to work on real-world projects, enhancing my problem-solving and teamwork skills.</li>
+<li>Employee Management System
+Smart Selfie Image Recognition
+HealthCare Management System</li>
+</ul>
+</div>
+<div class="projects">
+**Projects**
+<ul>
+<li>Developed a Quiz App using HTML, CSS, JavaScript, and Firebase to enhance user interaction and learning.
+Created an interactive calculator using HTML, CSS, and JavaScript to improve problem-solving skills.
+Designed a responsive website for a local business using HTML, CSS, and Bootstrap to showcase their products and services.</li>
+</ul>
+</div>
+<div class="skills">
+**Skills/Technical Skills**
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Java</li>
+<li>C++</li>
+<li>Data Structures</li>
+<li>Algorithms</li>
+<li>DBMS</li>
+<li>Linux</li>
+<li>Git</li>
+<li>Github</li>
+</ul>
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+<ul>
+<li>Lack of information on job experience in the field of interest.</li>
+<li>Limited information provided on projects, making it difficult to assess the candidate's technical skills and abilities.</li>
+<li>No mention of salary expectations or job experience level, making it difficult to tailor recommendations.</li>
+</ul>
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+<ul>
+<li>Include more information on job experience in the field of interest. This will help potential employers see how your skills and experience align with the requirements of the job.</li>
+<li>Provide more details on projects, including your role, responsibilities, and accomplishments. This will help potential employers assess your technical skills and abilities.</li>
+<li>Include information on salary expectations and job experience level. This will help potential employers tailor their offers to your needs.</li>
+</ul>
+</div>

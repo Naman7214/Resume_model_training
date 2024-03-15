@@ -1,0 +1,33 @@
+C,C++,Java,HTML,CSS,Javascript,Typescript,SASS
+Supereasy Solutions
+Vice President, IT Tech ClubReact Developer Intern
+Spearheaded strategic planning and execution of club initiatives, fostering a dynamic environment for
+technology enthusiastsDesigned and developed front end components leveraging React for front-end implementation, and
+seamlessly integrating it with a backend database, enhancing data visualization and accessibility for end-
+users.Dec 2023 - Jan 2024vedantdalal100@gmail.com | 9284901140 | Linkedin,Leetcode,Github:vedantd25Vedant Dalal
+PROFESSIONAL EXPERIENCE
+EXTRACURRICULAR ACTIVITIESSKILLS
+Implemented responsive design principles, ensuring optimal user experience across various devices and
+screen sizes
+PROJECTS(AVAILABLE ON GITHUB)Bachelor of Engineering | 2021-2025 SSC
+Third Year IT Engineering | CGPA:8.77 Dnyanganga English Medium School | 84%EDUCATION 
+Savitribai Phule Pune University HSC 
+S.P. College | 84%
+CHAT APPLICATION
+Integrated Firebase as the backend infrastructure, enabling real-time data synchronization and secure
+user authentication, while employing SASS for streamlined and maintainable styling, resulting in a visually
+appealing and efficient chat platform.
+Developed a dynamic and responsive chat application using React, crafting an intuitive user interface
+that enhances the user experience.
+NETWORK OF SOCIAL WORKING ORGANISATIONS
+A website which clubs together different social organisations working on social issuesReact.js,Next.js,Node.js,Express.js
+MongoDB,MySQL
+Git,GithubProgramming Languages
+Frameworks
+ToolsDatabase Languages
+PORTFOLIO WEBSITE
+Designed and developed a dynamic and responsive portfolio website using React, showcasing my skills
+and projects. Implemented modern UI/UX principles for an engaging user experience.
+Demonstrated proficiency in front-end development and utilized React components to create an
+interactive and visually appealing personal portfolio. The website serves as a comprehensive
+representation of my professional capabilities and accomplishments.

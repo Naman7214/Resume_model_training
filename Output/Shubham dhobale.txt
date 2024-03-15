@@ -1,0 +1,50 @@
+web DeveloperSHUBHAM DHOBALE
+EDUCATION
+Savitribai Phule Pune university
+2021-2025
+SKILLS
+Proficient in HTML5, CSS3,
+and JavaScript
+React Js
+Basic knowledge of version
+control systems (e.g., Git)
+Understanding of responsive
+web design principles
+C++,JavaPROJECTS
+Golf Website clone
+Restaurant Website
+Description: This project involves designing and
+developing a fully functional website that effectively
+showcases the restaurant's menu, ambiance, and services,
+while providing an excellent user experience for both
+potential and existing customers.PROFILE
+As a web developer intern, my primary goal is to gain
+practical experience by working on real-world web
+development projects. I am committed to enhancing
+my coding skills, collaborating effectively with team
+members, and contributing to the success of the
+organization. I aspire to become a proficient web
+developer and apply the knowledge and experience
+gained during this internship to create innovative and
+user-friendly websites in the future.7066685823
+Karvenagar puneshubhamdhobale1945@gmail.com
+STRENTGH
+Problem Solving
+Team Collaboration
+Adaptability and Eagerness to
+LearnB.E. inInformation TechnologyCONTACT
+Description : The Golf Website Clone project is an
+ambitious endeavor to replicate and recreate the
+functionality and design of a popular golf-related
+website.. This project serves as an opportunity to hone
+our web development skills, including front-end and
+design principles, and user experience considerations.
+GitHub Repository link:  
+https://github.com/shubhamdhobale/Golf-website-
+clone.git
+GitHub Repository link:
+https://github.com/shubhamdhobale/restaurant-
+website.git
+E-Commerse Website:
+Link: 
+https://github.com/shubhamdhobale/MERN-Stack.git

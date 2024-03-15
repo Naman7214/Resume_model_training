@@ -1,0 +1,62 @@
+  <div class="workExperience">
+<h2>Work Experience</h2>
+<ul>
+<li><strong>Company Name:</strong> XYZ Technologies</li>
+<li><strong>Position:</strong> Virtual AI/ML and AWS Academy Cloud Foundation Intern</li>
+<li><strong>Dates Employed:</strong> 02/2023 - Present</li>
+<li><strong>Location:</strong> India</li>
+<li><strong>Description:</strong>
+<ul>
+<li>Hands-on experience with AI/ML technologies and cloud computing.</li>
+<li>Participated in projects related to Natural Language Processing (NLP).</li>
+<li>Worked on a project involving the implementation of a machine translation system using the TensorFlow framework.</li>
+<li>Gained exposure to cutting-edge AI/ML algorithms and techniques.</li>
+<li>Enhanced problem-solving skills through real-time problem-solving exercises.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="projects">
+<h2>Projects</h2>
+<ul>
+<li><strong>Project Title:</strong> Live Language Translation</li>
+<li><strong>Description:</strong> Developed a language translation system that enables real-time translation of spoken words using deep learning techniques.</li>
+<li><strong>Project Title:</strong> Weather App</li>
+<li><strong>Description:</strong> Developed a weather app that provides users with real-time weather updates and forecasts.</li>
+<li><strong>Project Title:</strong> XYZ Technologies Internship Project</li>
+<li><strong>Description:</strong> Worked on a project to develop a machine learning model for predicting customer churn.</li>
+</ul>
+</div>
+<div class="skills">
+<h2>Skills/Technical Skills</h2>
+<ul>
+<li>Python</li>
+<li>Java</li>
+<li>C++</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>AWS</li>
+<li>Linux</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+</ul>
+</div>
+<div class="gapsIdentified">
+<h2>Gaps Identified</h2>
+<ul>
+<li>Lack of information about specific projects and accomplishments in the work experience section.</li>
+<li>No mention of relevant coursework or academic achievements in the education section.</li>
+<li>The skills section could be expanded to include more technical skills and programming languages.</li>
+</ul>
+</div>
+<div class="tailoredRecommendations">
+<h2>Tailored Recommendations</h2>
+<ul>
+<li>In the work experience section, provide more details about the projects you worked on, your responsibilities, and the technologies you used.</li>
+<li>In the education section, include relevant coursework, academic achievements, and any research or teaching experience.</li>
+<li>In the skills section, expand on your technical skills and programming languages, and consider including any certifications or relevant online courses you have completed.</li>
+<li>Consider adding a section to highlight any volunteer experience, leadership positions, or extracurricular activities that demonstrate your skills and interests.</li>
+<li>Proofread your resume carefully for any errors or typos before submitting it.</li>
+</ul>
+</div>

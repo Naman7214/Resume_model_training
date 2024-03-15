@@ -1,0 +1,33 @@
+  <div class="workExperience">
+**Work Experience**
+- Data Analyst Intern at XYZ Company (2022)
+- Developed and implemented data analysis models to optimize marketing campaigns
+- Analyzed customer data to identify trends and patterns
+- Worked with cross-functional teams to develop data-driven solutions
+</div>
+<div class="projects">
+**Projects**
+- Built a machine learning model to predict customer churn
+- Developed a web application to track employee productivity
+- Designed a database to store and analyze customer data
+</div>
+<div class="skills">
+**Skills**
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Data Visualization
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- Lack of experience in a full-time role
+- Limited exposure to real-world projects
+- Need to develop stronger communication skills
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- Apply for internships and entry-level jobs to gain experience
+- Volunteer for projects that will allow you to develop your skills
+- Take online courses to improve your communication skills
+</div>

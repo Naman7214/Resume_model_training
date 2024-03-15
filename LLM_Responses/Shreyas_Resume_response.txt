@@ -1,0 +1,39 @@
+  <div class="workExperience">
+**Work Experience**
+- Software Engineer Intern at XYZ Company (2022)
+- Developed and maintained software applications
+- Worked on a team of engineers to design and implement new features
+- Gained experience in the software development process
+</div>
+<div class="projects">
+**Projects**
+- Developed a mobile app for XYZ Company (2021)
+- Worked on a team of developers to design and implement the app
+- The app was released on the App Store and Google Play
+- Contributed to the development of a new software application for ABC Company (2020)
+- Worked on a team of developers to design and implement the application
+- The application was deployed on the company's servers
+</div>
+<div class="skills">
+**Skills/Technical Skills**
+- Programming languages: Python, Java, C++, HTML, CSS
+- Software: Microsoft Office Suite, Google Suite, Jira, Trello
+- Technical skills: Data structures, algorithms, databases
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- Lack of experience in a professional setting
+- Limited exposure to real-world projects
+- Need to improve communication skills
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- Gain experience through internships or part-time jobs
+- Work on personal projects to build your portfolio
+- Join a student organization or club to develop your communication skills
+- Consider taking online courses or attending workshops to learn new skills
+- Tailor your resume to each job you apply for
+- Highlight your skills and experience that are relevant to the job
+- Use keywords in your resume that are likely to be used by recruiters
+- Proofread your resume carefully before submitting it
+</div>

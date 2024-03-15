@@ -1,0 +1,53 @@
+  <div class="workExperience">
+<h3>Work Experience</h3>
+<ul>
+<li><b>React Developer Intern</b>, SuperEasy Solutions, Dec 2023 - Jan 2024
+<ul>
+<li>Designed and developed front-end components leveraging React for front-end implementation, and seamlessly integrated it with a backend database, enhancing data visualization and accessibility for end-users.</li>
+<li>Implemented responsive design principles, ensuring optimal user experience across various devices and screen sizes.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="projects">
+<h3>Projects</h3>
+<ul>
+<li><b>Chat Application</b>
+<ul>
+<li>Integrated Firebase as the backend infrastructure, enabling real-time data synchronization and secure user authentication, while employing SASS for streamlined and maintainable styling, resulting in a visually appealing and efficient chat platform.</li>
+<li>Developed a dynamic and responsive chat application using React, crafting an intuitive user interface that enhances the user experience.</li>
+</ul>
+</li>
+<li><b>Portfolio Website</b>
+<ul>
+<li>Designed and developed a dynamic and responsive portfolio website using React, showcasing my skills and projects. Implemented modern UI/UX principles for engaging user experience.</li>
+<li>Demonstrated proficiency in front-end development and utilized React components to create an interactive and visually appealing personal portfolio. The website serves as a comprehensive representation of my professional capabilities and accomplishments.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="skills">
+<h3>Skills/Technical Skills</h3>
+<ul>
+<li>C++, Java, HTML, CSS, JavaScript, TypeScript, SASS</li>
+<li>Frameworks: React.js, Next.js, Node.js, Express.js</li>
+<li>Databases: MongoDB, MySQL</li>
+<li>Tools: Git, GitHub</li>
+</ul>
+</div>
+<div class="gapsIdentified">
+<h3>Gaps Identified</h3>
+<ul>
+<li>While the resume showcases a strong technical skill set, it would be beneficial to include additional details about your work experience, highlighting specific achievements, responsibilities, and outcomes.</li>
+<li>Consider incorporating a summary or objective statement at the beginning of the resume to provide a concise overview of your career goals and aspirations.</li>
+<li>Although you have mentioned your interest in web development, it would be helpful to further elaborate on your specific areas of expertise within the field, such as front-end or back-end development.</li>
+</ul>
+</div>
+<div class="tailoredRecommendations">
+<h3>Tailored Recommendations</h3>
+<ul>
+<li>To enhance the impact of your resume, consider quantifying your achievements whenever possible. For instance, instead of stating "developed a chat application," you could say "developed a chat application that increased user engagement by 20%."</li>
+<li>Since you expressed an interest in web development, it would be valuable to include more information about your relevant projects and skills. If you have any personal projects or GitHub repositories showcasing your web development expertise, be sure to include them.</li>
+<li>To make your resume more visually appealing and easy to read, consider using a clean and consistent font and layout throughout the document.</li>
+</ul>
+</div>

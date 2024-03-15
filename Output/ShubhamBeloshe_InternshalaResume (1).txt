@@ -1,0 +1,106 @@
+Shubham Beloshebelosheshubham5974@gmail.com
+91 9307658818
+Pune
+EDUCATION Bachelor of Engineering (B.E, Computer Science &
+Engineering
+Marathwada Mitra Mandal's College Of Engineering, Pune
+2021  2025
+WORK EXPERIENCEMachine Learning
+Bharat Internship, Virtual
+Internship•Oct 2023  Nov 2023 1 month)
+Built Wine Quality Prediction with SVC, developed House Price
+Prediction using Linear Regression, and crafted Iris Flower
+classification using Logistic Regression. Applied data-driven
+approaches for accurate modeling and prediction.
+Data Science
+Codeclause, Virtual
+Internship•Sep 2023  Oct 2023 1 month)
+I crafted Movie Recommendation System, using
+EDA,vectorization,and Cosine Similarity Algorithm. Led Credit
+Fraud Detection, using EDA,Random Forest Classifier. For
+Breast Cancer Classification, I performed EDA,VIF
+analysis,Lasso Logistic Regression.
+POSITIONS OF
+RESPONSIBILITYMember, IEEE Club, MMCOE
+TRAININGS Data Science And Machine Learning
+Coding Ninja, Online
+Aug 2023  Present
+On going Coding Ninjas' Data Science and ML course,
+mastering pandas, numpy, Matplotlib, seaborn, SQL, API, and
+Webscraping tools like BeautifulSoup and Selenium. Proficient
+in diverse ML techniques, NLP, and neural networks
+(TensorFlow, Keras), including CNN, RNN. Accomplished 12
+major projects showcasing expertise.
+PROJECTS Product Management System
+Oct 2023  Nov 2023
+https://github.com/Shubham5974/Product-Management-
+System.git
+It is based on the concept of DBMS such as MySQL and Java
+Connectivity using MySQL. In this we created Java
+Application using .NetID.Iris Flower Classification
+Nov 2023  Nov 2023
+https://github.com/Shubham5974/Iris-Flower-
+Classification.git
+Wine Quality Prediction
+Oct 2023  Oct 2023
+https://github.com/Shubham5974/Wine-Quality-Prediction.git
+Movie Recommendation System
+Sep 2023  Oct 2023
+https://github.com/Shubham5974/Movie-Recommendation-
+System.git
+Breast Cancer Classification
+Sep 2023  Sep 2023
+https://github.com/Shubham5974/Breast-Cancer-
+Classification.git
+Credit Card Fraud Detection
+Sep 2023  Sep 2023
+https://github.com/Shubham5974/Credit-Card-Fraud-
+Detection.git
+Stock Price Prediction
+Aug 2023  Aug 2023
+https://github.com/Shubham5974/Stock-Price-Prediction.git
+Live Language Translator
+Aug 2023  Aug 2023
+https://github.com/Shubham5974/Live-Language-
+Translator.git
+House Price Prediction
+Jul 2023  Jul 2023
+https://github.com/Shubham5974/House-Price-Prediction.git
+Chatbot
+Apr 2023  May 2023
+https://github.com/Shubham5974/Chatbot.git
+In this I created Chatbot for restaurant website which may
+give all the facilities communication with customer as per his
+need of resources and other so many things.
+SKILLS Python
+IntermediateHTML
+Advanced
+JavaScript
+IntermediateCSS
+Advanced
+Data Analytics
+IntermediateJava
+IntermediateAJAX
+IntermediateXML
+Intermediate
+MySQL
+AdvancedMongoDB
+Intermediate
+C Programming
+IntermediateReactJS
+Intermediate
+Angular 7.0
+BeginnerPHP
+Intermediate
+React Native
+Beginner
+WORK SAMPLESGitHub profile
+http://github.com/Shubham5974
+Other portfolio link
+http://linkedin.com/in/shubham-beloshe-22a185239
+ADDITIONAL DETAILSRepresented college at the National Level SIH Hackathon
+2022, showcasing problem-solving skills.
+Secured runner-up position at IEEE event AVINYA 2023,
+demonstrating excellence in innovation.
+Active participant in college-organized workshops, enhancing
+practical knowledge.

@@ -1,0 +1,57 @@
+ANUSHKA PHADTARE
+Data Science enthusiast ∼Engineer/g♀beportafolio.com
+/ne7666783700
+Pune, Indiaanushkaphadtare22@gmail.com
+/gtbgithub.com/AnushkaPhadtare
+/in/anushka-phadtare-121b8a268
+SUMMARY
+Currently, I am a student who is focused on data science
+and various predictions that can be derieved out of data.
+I believe that I am a hardworking girl who is passionate
+about Machine Learning concepts. I possess a strong
+quality of learning any concept from scratch and taking it
+to the next level. I would love to be considered for a role
+of data scientist or a machine learning engineer. Apart
+from tech, I love to sing, cook and dance!SKILLS
+Languages: Python, SQL, C++, Java(OOP), HTML.
+Technology
+Tools:Google Spreadsheets, PyCharm, Intellij
+IDEA, Jupyter Notebook, Google Colab,
+Power BI, GitHub, Canva, Figma, Google
+Slides, Visual Studio Code
+Skill Set: Machine Learning, Libraries in
+Python, Data cleaning, EDA , CSS,
+JavaScript(AJAX),Data Analytics(pursuing)
+PROJECTS
+ML and WebTech Real estate price prediction
+Built an end to end project on price prediction. UI using HTML, CSS.Used the bangalore house dataset
+from kaggle and built the model using Linear Regression. Integrated the model and the UI using
+Flask.
+ML Detection of Fake Profiles
+Made an attempt to understand Feed Forward Neural Networks through this project.
+Python PL Image Resizer using opencv
+Used the opencv library of Python to build an image resizer using python.
+DL and WebTech Identification of raw medicinal plants using ML(SIH 23)
+Front-end using HTML,CSS,JS and used deep learning for identifying the plant name. Our team ended
+up getting selected amongst the top 30 teams of the college(Rank:23)
+EDUCATION
+2007-2009 Primary and Secondary Education 10th Percentage:95.00
+Completed my primary and secondary education from Gurukul School Satara
+2019 -2021 Junior College 12th Percentage: 94.33
+Completed my Higher Secondary education from Sawkar College Satara
+2021 - 2025 Undergraduation CGPA:FE-9.5, SE-8.2, TE-8.95
+Currently pursuing Information Technology Engineering from MMCOE,Pune
+EXPERIENCE
+2023-2024 Data Science Intern Shyena Tech Yarns, Pune
+•Worked as a data science intern where I got the opportunity to design and develop solutions in Python
+and Time Series Forecasting.
+2023 Data Science and Machine Learning Head IT Tech Club, MMCOE
+•Currently working as the Data Science and ML Head at IT Tech Club, MMCOE.
+HACKATHON COMPETITIONS:
+2024 AgroForecast App For Farmers PES Modern COE, Pune
+•Secured 1st price in Hackathon conducted by PES Modern College Of Engineering (Computer Depart-
+ment) where our team built an app for the farmers which could provide around 8 different functionalities.
+I was a part of ML team where I had implemented two models, namely, a crop prediction model and a
+weather prediction model.
+LANGUAGES
+English ,Hindi ,Marathi

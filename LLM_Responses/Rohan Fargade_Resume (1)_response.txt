@@ -1,0 +1,29 @@
+  ## **Summary**
+Below is a  summary of the resume provided by Rohan Fargade.
+
+## **Work Experience**
+- Rohan has experience working on different web, app and desktop projects.
+- He has experience in virtual internship in AI/ML.
+- He has experience working with Big Data and Cloud Computing.
+
+## **Projects**
+- Rohan has worked on a project called Saarthi - The AI Assistant where he created the AI-ML based model that gives self identification of mental health status and gives guidance for better mental health.
+- He has worked on a project called ConnectIT- Department Dashboard for IT where he created the dashboard for IT department which include functions like attendance monitoring, students and faculty details, etc.
+- He has also worked on a project called Crowdfunding for Udaan where he created a prototype of hydroelectric plant for society to generate electricity required for society.
+
+## **Skills/Technical Skills**
+- Rohan has experience in programming languages such as Python, C++, JavaScript, HTML, and SQL.
+- He has experience in database management systems such as MySQL and MongoDB.
+- He has experience in cloud computing platforms such as AWS and Google Cloud Platform.
+- He has experience in software tools such as Git, Jira, and Confluence.
+
+## **Gaps Identified**
+- The resume does not specify the duration of the work experience or projects.
+- The resume does not specify the user's salary expectations or job experience level.
+
+## **Tailored Recommendations**
+- The user should add the duration of the work experience and projects to the resume.
+- The user should add their salary expectations and job experience level to the resume.
+- The user should tailor their resume to the specific job they are applying for.
+- The user should use keywords that are relevant to the job they are applying for.
+- The user should proofread their resume for any errors.

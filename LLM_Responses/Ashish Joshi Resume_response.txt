@@ -1,0 +1,59 @@
+  <div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Secretary, ACM Student's Chapter MMCOE, 08/2023 - Present</li>
+  </ul>
+</div>
+<div class="projects">
+  <h2>Projects</h2>
+  <ul>
+    <li>Remote Controlled Car using Raspberry Pi and Python Programming</li>
+    <li>Faculty Dashboard using HTML, CSS, JavaScript, PHP, and MySQL</li>
+  </ul>
+</div>
+<div class="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>Communication</li>
+    <li>Teamwork</li>
+    <li>Documentation</li>
+    <li>Engineering</li>
+    <li>Photography</li>
+  </ul>
+  <h3>Programming Languages</h3>
+  <ul>
+    <li>C++ 3 <img src="star.png"> HackerRank</li>
+    <li>Java 2 <img src="star.png"> HackerRank</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+  </ul>
+  <h3>Languages</h3>
+  <ul>
+    <li>English</li>
+    <li>Hindi</li>
+    <li>Marathi</li>
+  </ul>
+  <h3>Certifications</h3>
+  <ul>
+    <li>Google Data Analytics</li>
+    <li>IITB Java</li>
+    <li>IITB C++</li>
+    <li>IITB Python</li>
+  </ul>
+</div>
+<div class="gapsIdentified">
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of work experience in the field of interest.</li>
+    <li>No mention of salary expectations.</li>
+    <li>Limited description of skills and technical expertise.</li>
+  </ul>
+</div>
+<div class="tailoredRecommendations">
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Include more details about work experience, even if it is not directly related to the field of interest. This will help potential employers see your range of skills and abilities.</li>
+    <li>Clearly state your salary expectations. This will help potential employers know if you are a good fit for their budget.</li>
+    <li>Expand on your skills and technical expertise. This will help potential employers see what you can bring to the table.</li>
+  </ul>
+</div>

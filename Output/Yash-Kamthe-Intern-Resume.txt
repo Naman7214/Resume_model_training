@@ -1,0 +1,87 @@
+2021 - Pr esent
+•
+•
+•
+•
+•
+•
+•11/2022 - 01/2023
+•
+•09/2022 - 09/2023
+t
+t
+
+
+
+ S U M M A R Y
+Enthusiastic I T engineering student with a str ong foundation in softwar e de velopment  
+and a passion for technology . Curr ently pursuing my thir d year (T .E.) of Bachelor 's in 
+Engineering (BE) at MMCOE, Pune. Seeking internship oppor tunities t o apply and expand  
+my skills while contributing t o inno vative projects. Recogniz ed for cr eativ e problem-
+solving skills and a hist ory of accomplishments in technical competitions.
+E D U C A T I O N
+B a c h e l o r  o f  E n g i n e e r i n g ,  I n f o r m a t i o n  
+T e c h n o l o g y
+M a r a t h w a d a  M i t r a  M a n d a l ' s  C o l l e g e  o f  
+E n g i n e e r i n g  -  M M C O ES.Y CGP A: 7.25
+P R O J E C T S
+1 .  P e d i g r e e  A n a l y s i s  S o f t w a r e  ( D e v e l o p e r )
+Developed a softwar e solution for pr edicting genetic disease inheritance pr obabilities fr om 
+parents t o their child, catering t o the needs of families with genetic concerns.
+Published a patent for the softwar e under Application Number 202321030474 , recognizing  
+its inno vative contribution t o genetic analysis.
+Developed an application using P ython, MySQL, P yQt5 libr ary keeping POC in mind.
+2 .  A I -p o w e r e d  L e g a l  D o c u m e n t a t i o n  As s i s t a n t   ( B a c k e n d  
+D e v e l o p e r )
+Played a k ey role in the back end de velopment of a Vir tual Legal Documentation Assistant  
+using the Django fr amework.
+Collabor ated with a skilled team t o create an AI-power ed solution that str eamlines legal  
+documentation pr ocesses.
+Activ ely contributed using P ython, SQLite, Django fr amework.
+I N T E R N S H I P S
+W e b  D e v e l o p m e n t  I n t e r n
+E l i t e  S o f t w a r e s Pune, Mahar ashtr a
+Gained v aluable knowledge in web de velopment technologies, including H TML, CSS and  
+Django.
+C L U B S
+D e v e l o p m e n t  T e a m  M e m b e r
+G o o g l e  D e v e l o p e r  S t u d e n t  C l u b s  M M C O E  ( G D S C )
+Collabor ated with a dynamic team t o organiz e and host a series of engaging technical e vents  
+on campus, fostering a cultur e of learning and inno vation.
+Contributed in de veloping a f eatur e-rich mobile app and a user-friendly website for the NGO  
+"Ahmi Zadkari, " catering t o their speciﬁc needs and objectiv es.
+C O U R S E S
+P y t h o n  P r o g r a m m i n g  F u n d a m e n t a l s  a n d  P e r s o n a l i t y  
+D e v e l o p m e n t  ( I I T  K h a r a g p u r )
+D a t a  S t r u c t u r e s  a n d  A l g o r i t h m s  E s s e n t i a l s  u s i n g  C + +  
+( U d e m y )A C H I E V E M E N T S
+P a t e n t  P u b l i s h e d
+Published a patent (India) for pedigr ee 
+analysis softwar e under application  
+number 202321030474
+S e c o n d  P l a c e ,  U D A A N  2 K 2 2  
+M o d e l  M a k i n g  C o m p e t i t i o n
+Technical e vent for ﬁrst y ear students,  
+organiz ed b y MMCOE.
+T h i r d  P l a c e ,  I d e a t i o n  
+D e x t e r i t y  2 K 2 2 - 2 3
+National Le vel Technical E vent, 
+organiz ed b y the I T Depar tment of  
+MMCOE
+T h i r d  P l a c e ,  E  V i s i o n  
+D e x t e r i t y  2 K 2 2 - 2 3
+National Le vel Technical E vent, 
+organiz ed b y the Electrical Engineering  
+Depar tment of MMCOE.
+S K I L L S
+P r o g r a m m i n g  L a n g u a g e s
+JavaC++ Python
+F r a m e w o r k s
+Django
+D a t a b a s e s
+MongoDB MySQL
+ E  q
+q eY A S H  K A M T H E
++ 9 1  9 9 7 5 7 4 6 0 1 6 y a s h k a m t h e 0 3 @ g m a i l . c o m h t t p s : / / g i t h u b . c o m / y x s h 7
+h t t p s : / / w w w . l i n k e d i n . c o m / i n / y a s h k a m t h e P u n e ,  M a h a r a s h t r a
+

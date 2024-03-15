@@ -1,0 +1,33 @@
+  ## Summary
+Naman Agnihotri is a highly skilled and experienced software engineer with a strong background in machine learning and artificial intelligence. He has a proven track record of developing and delivering innovative solutions to complex problems. He is also an excellent communicator and team player.
+
+## Work Experience
+Naman has worked as a Software Engineer at Google for the past two years. In this role, he has developed and deployed several machine learning models for various applications, including image recognition, natural language processing, and speech recognition. He has also worked on several projects related to artificial intelligence, such as developing a chatbot and a virtual assistant.
+
+## Projects
+Naman has completed several projects related to machine learning and artificial intelligence. These projects include:
+
+- An object detection system using the YOLOv3 model
+- A chatbot that can answer questions about a specific topic
+- A virtual assistant that can perform tasks such as setting reminders and playing music
+- A machine translation system that can translate text from one language to another
+
+## Skills
+Naman has a strong background in machine learning and artificial intelligence. He is also proficient in a variety of programming languages and tools, including Python, Java, and C++. He is also familiar with a variety of machine learning libraries, such as TensorFlow and PyTorch.
+
+## Gaps Identified
+Naman's resume is well-written and comprehensive. However, there are a few areas where he could improve.
+
+- He could provide more detail about his work experience, particularly his role in developing and deploying machine learning models.
+- He could also provide more information about his skills and experience with machine learning libraries and tools.
+- Finally, he could provide more information about his interests and career goals.
+
+## Tailored Recommendations
+Based on the gaps identified, Naman could take the following steps to improve his resume:
+
+- Add more detail about his work experience, particularly his role in developing and deploying machine learning models.
+- Provide more information about his skills and experience with machine learning libraries and tools.
+- Include a section that highlights his interests and career goals.
+- Proofread his resume carefully for any errors.
+
+By following these recommendations, Naman can create a resume that is more tailored to his interests and career goals, and that will help him stand out from the competition.

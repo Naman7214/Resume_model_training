@@ -1,0 +1,75 @@
+Marathwada Mitramandal’s College of Engineering
+Bachelor’s in Engineering (BE) in Information Technology (2020-2024)
+Fourth Year Engineering (BE) - Pursuing
+Third Year Engineering (TE) - 8.67 CGPA
+Second Year Engineering (SE) - 9.34 CGPA
+First Year Engineering (FE) - 9.98 CGPA
+Chhatrapati Shahu Academy & Science Junior College, Satara
+12th (HSC) · (2018 - 2020) – 76 %
+Podar International School (CBSE), Satara
+10th (CBSE) · (2010 - 2018) – 86%SKILLS
+PythonBhuvanesh Sudarshan Rajekadam
++91 9552498238
+bhuvaneshrajekadam@gmail.com
+https://www.linkedin.com/in/bhuvanesh-rajekadam-b03a3321b /
+52, Pune, Maharashtra, India
+EDUCATION
+WORK EXPERIENCE
+Permormed data preprocessing, cleaning, analyzing, visualization
+for analyzing compressive strength of cement using regression
+models.
+Preparing dataset using several methods to train dataset, building a
+model that gives higher accuracy of predicting the disease.Machine Learning & Data Science Intern
+YBI Foundations
+(11/2022-12/2022)
+Tasks:
+Data Science Intern
+Exposys Data Labs
+(Ongoing)
+Tasks:
+ORGANIZATIONS
+Student Council, MMCOE (08/2023 - Present)
+General Secretary
+ISTE Students’ Chapter, MMCOE (08/2023 - Present)
+Treasurer
+College Magazine Office, MMCOE (02/2023 - 04/2023)
+Editor - Design & Layout 
+IT Students’ Association, MMCOE (08/2022 - 08/2023)
+Vice President
+LANGUAGE
+English
+Marathi
+HndiSQL NodeJS HTML CSS MongoDB
+Java Data Analysis Jupyter NB Visual Studio Figma
+Code Blocks Canva
+Leadership Teamwork Time Management Decision MakingMicrosoft Ofiice & Libre Office
+PROJECTS
+Creating a application that will automatically scan number plate
+of vehicle at exit & entry and will calculate charges accordingly.
+Technologies used will be OCR, machine learning, language
+detection library and payement gateway.
+Developed ecommerce online shopping website using, Nodejs,
+HTML, CSS, MongoDB.
+Developed web application to perform CRUD operations.
+Technologies used NodeJS, HTML, CSS, MongoDB Atlas.
+Developed application to manage dialy library transactions.
+Technologies used were java swing and MySQL.
+Training & Testing the dataset, performing data anaylsis on
+dataset, creating visualiztions, calculating accuracy, precision and
+etc.Smart Car Parking System
+(06/2023 - Ongoing)
+Ecommerce Website: Online Shopping System
+(01/2023 - 03/2023)
+User Management System
+(11/2022 - 01/2023)
+Library Management System
+(02/2022 - 05/2022)
+Data Science: Disease Prediction:
+(01/2023 - 03/2023)
+CERTIFICATIONS
+Salsforce & Smart Bridge: Salesforce Supported Program (Ongoing)
+AWS Academy: Data Science (Ongoing)
+AWS Academy: Cloud Foundation (2023)
+Celonis: Process Mining Virtual Internship Program (2023)
+Cisco Networking Academy: Cyber Security Essential (2022)
+IITB Spoken Test Tutorial: Python, C++, RDBMS PostgreSQL

@@ -1,0 +1,39 @@
+8668491049
+pune
+shivamchipade2021.etc@mmcoe.edu.inshivam chipadeXX’s Blog
+GitHub: Shivam-424
+LinkedIn:
+https://www.linkedin.com/in/shivam-
+chipade-194341247
+Education
+Bachelor of Engneering(BE) Dec 2022 - June 2023
+sppu university
+Main courses: Data structure,Digital circuit, Electronics circuit,Electronic sSkill Devlopment, ECL.
+Work Experience
+Hardware Engineer Dec 2022 - Feb 2023
+•Designed hardware schematics and PCB .
+•Performed projects using Ardino.
+•PCB designig using PCB Wizard
+Software Test Engineer Dec 2022 - Feb 2023
+•HTML,CSS,javascript,Bacis of python,c,c++.
+Internship Feb 2023 - April 2023
+y Hills
+•Learning web devlopment and performing projectes under mentor.
+IETE
+•We can publish our newspaper under this club with lots of benifits.
+•Attend the seminares and learn new skills and developed communication skills.
+Acadmic Achivements
+Marathwada Mitramandal College of Engineering,Pune
+•Participation in intercollage Smart Indian Hackthon(SIH)2022
+•CGPA of First Year 8.52
+Project
+Website
+•Website for bed availablity in hospital for emergency patient.
+Front End Web Devlopment
+•Created the front-end of website using HTML,CSS,Javascript and python,
+•Domin was to inform farmer correct weather condition for cultivation of sutiable crop.
+Skills
+Programming Python,Javascript, C, ,C++,HTML,CSS, Matlab, MarkDown
+Hardware Design Multisim,pcb designing, Simmulatiom, ModelSim, AltiumDesigner
+Communication Marathi (native), English (business), Hindi(business),Japanese (beginner)
+Other Github, Microsoft Office

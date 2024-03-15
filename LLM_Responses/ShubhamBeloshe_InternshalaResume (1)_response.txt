@@ -1,0 +1,52 @@
+  <div class="workExperience">
+**Work Experience**
+- Built Wine Quality Prediction with SVC, developed House Price Prediction using Linear Regression, Applied data-driven approaches for effective modeling and prediction.
+- Internship at MapmyIndia,Pune
+- Worked on Recommendation System using Collaborative Filtering based on User-based and Item-based Collaborative Filtering.
+- Developed a Stock Market Prediction System using LSTM.
+- Intern at Elysium Research, Mumbai
+- Worked on Chatbot for customer service which may include functionalities like Frequently Asked Questions, Complaint resolution etc.
+</div>
+<div class="projects">
+**Projects**
+- **House Price Prediction**
+Aimed to predict the House Prices based on different parameters like area, number of bedrooms, number of bathrooms etc.
+- **Iris Flower Classification**
+The main objective was to classify the iris flower into three different classes namely Setosa, Versicolor and Virginica based on its attributes like sepal length, sepal width, petal length and petal width.
+- **Movie Recommendation System**
+To build a movie recommendation system using Collaborative Filtering.
+- **Credit Card Fraud Detection**
+The main objective of this project was to predict whether a given transaction is fraudulent or not.
+- **Live Language Translator**
+An interactive web application that can translate text from one language to another in real time.
+- **Chatbot**
+In this I created chatbot for restaurant website which may include functionalities like Frequently Asked Questions, Complaint resolution etc.
+</div>
+<div class="skills">
+**Skills/Technical Skills**
+- Python
+- Java
+- C++
+- JavaScript
+- HTML
+- CSS
+- Data Analytics
+- Data Science
+- Machine Learning
+</div>
+<div class="gapsIdentified">
+**Gaps Identified**
+- Lack of information about the candidate's educational background.
+- No mention of any relevant certifications or awards.
+- The candidate has not provided any information about their work experience.
+- The candidate has not provided any information about their skills or technical skills.
+- The candidate has not provided any information about their interests or career goals.
+</div>
+<div class="tailoredRecommendations">
+**Tailored Recommendations**
+- The candidate should include a summary of their educational background, including their degrees, institutions, and graduation dates.
+- The candidate should include a section listing any relevant certifications or awards they have received.
+- The candidate should provide a detailed description of their work experience, including their roles, responsibilities, and accomplishments.
+- The candidate should provide a list of their skills and technical skills, including any relevant programming languages, tools, or technologies.
+- The candidate should include a statement of their interests or career goals, and how their skills and experience align with those goals.
+</div>

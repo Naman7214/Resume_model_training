@@ -1,0 +1,67 @@
+MAHESH  MOTALE  
+|Mob.  no: +91 7709586646  | 
+Email  : maheshmotale2020.it@mmcoe.edu.in  
+Github  : https://github.com/Mahesh -Motale  
+Linkedin  : www.linkedin.com/in/mahesh -motale -7281a7225  
+ 
+ 
+OBJECTIVE  : 
+To secure  a position  in a company  where  I can use my skills  and abilities  to make  
+a contribution to the organization . A challenging position in a progressive  
+organization  that will utilize  my talents  and provides  me with an opportunity  for 
+personal  and professional  growth.  
+ 
+EDUCATION  : 
+● MARATHWADA  MITRA  MANDAL  COLLEGE  OF ENGINEERING  
+,PUNE(MMCOE) B.E in Information Technology 
+C.G.P.A  – 9.22 (Aggregated  till 6th semester)  
+ 
+● AGASTI  ART'S,  COMMERCE  AND DADASAHEB  RUPWATE  SCIENCE  
+COLLEGE,  AKOLE,  AHMEDNAGAR  
+Class 12th -Maharashtra State Board 
+Percentage  -85.69  
+ 
+● AGASTI  VIDYALAYA,  AKOLE,  AHMEDNAGAR  
+class 10th-Maharashtra State Board 
+Percentage  -94.00  
+ 
+PROJECTS  : 
+● WEB  BLOG  APPLICATION  
+-Developed  a Web Blog Application  which  allows  us to write,  read,  update  and 
+delete  blog posts  using  php and Mysql  database.  
+-We made  this system  admin  controlled.  All user's  Activities  are controlled  by 
+admin.  
+● VACCINATION  COUNT  WEBSITE  
+- Developed  a website using HTML,  CSS and php.  
+- This website  provide  total count  of vaccinated  people  within  certain  
+organisation  or college.  
+ 
+EXPERI ENCE : 
+January 2023 - July 2023 ongoing 
+Internship  at Athena  Automation  
+● Built fully responsive  website  for Athena  Automation  Company  
+using reactJs. 
+SKILLS  : 
+ 
+● Expertise  area : Data Structure  and Algorithms  | Object -Oriented  Programming  | 
+Mysql  database  | Frontend  web development  
+ 
+● Programming Languages and Technologies : C++ | JavaScript | Mysql | HTML | CSS| 
+Bootstrap  | Canva  | Git and Github  
+ 
+● Technical  Courses  and Electives  : Data Structures  and Algorithms  | Database  
+Management  Systems  | Advance  Database  Management  System  | Discrete  
+Mathematics  | Operating  Systems.  
+ 
+Positions  and Responsibilities  : 
+Head  of Competitive  coding  | IT Tech  Club  
+(Organized  one National  level Bug off competition  under  Dexterity  and one state level 
+Code  Decipher  Competition)  
+Duration : Aug. 2022 - Jun. 2023 
+ 
+DECLARATION  : 
+I hereby  to declare  that the information  stated  above  is trust to my knowledge.  
+Place:  Pune 
+ 
+Yours  Faithfully,  
+Mr. Mahesh  B. Motale  

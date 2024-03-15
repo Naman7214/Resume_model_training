@@ -1,0 +1,54 @@
+  <div class="workExperience">
+<b>Work Experience</b>
+<ul>
+<li><b>SuperEasy | Intern - Backend Developer</b> | Nov 2022 - Jan 2023</li>
+- Worked on Tailwind CSS, ReactJS, NextJS, Golang (Handling Middleware)
+</ul>
+</div>
+
+<div class="projects">
+<b>Projects</b>
+<ul>
+<li><b>Video Calling WebApp (ongoing)</b> | AWS, NodeJS, ReactJS, MongoDB, WebRTC, Socket.io | Feb 2024
+- A small project similar to how Google Meet / Zoom works
+- A fast browser-to-browser connection without a server
+- Features like screen sharing, real-time chat
+- Currently, peer-to-peer connection calling
+- Future scope is to build a multi-user video calling WebApp
+</li>
+<li><b>QR Based Attendance System</b> | AWS, Flask, Git, SQLite, Jinja Templating, JavaScript, Geminai | Jan 2023
+- A lightweight Flask application used to replace the traditional method of attendance with excellent analytics
+- Learned how to use AWS, Flask, and management of data
+- Team project for IT Department of our college
+</li>
+<li><b>Department Dashboard</b> | Firebase, ReactJS, Chart.js, Git | May 2023
+- A simple dashboard to get information about the IT Department of our college
+- Implemented a unique anonymous feedback system allowing students to provide their input
+</li>
+</ul>
+</div>
+
+<div class="skills">
+<b>Skills</b>
+- Web Dev: HTML5, CSS3, JavaScript, ReactJS, NodeJS, Flask, NextJS
+- Cloud Services: Amazon Web Services, Firebase
+- Database: MySQL, SQLlite, MongoDB
+- Blockchain: Solidity, Smart Contract, Ethereum Network, MetaMask
+- Web Development - Cohead at IT Tech Club, MMCOE
+</div>
+
+<div class="gapsIdentified">
+<b>Gaps Identified</b>
+- The work experience section lacks specific details about the projects you worked on and the technologies used.
+- The skills section could be improved by quantifying your proficiency in each skill. For example, instead of listing "HTML5," you could write "HTML5 (5 years of experience)."
+- The projects section could be improved by providing more context about the problem you were solving and the results you achieved.
+</div>
+
+<div class="tailoredRecommendations">
+<b>Tailored Recommendations</b>
+<ul>
+<li>In your work experience section, focus on highlighting your accomplishments and the technologies you used. For example, instead of writing "Worked on a project," you could write "Developed a new feature for the company's website using HTML5, CSS3, and JavaScript."</li>
+<li>In your skills section, quantify your proficiency in each skill. For example, instead of listing "HTML5," you could write "HTML5 (5 years of experience)."</li>
+<li>In your projects section, provide more context about the problem you were solving and the results you achieved. For example, instead of writing "Worked on a project," you could write "Developed a new website for a local business that increased traffic by 20%."</li>
+</ul>
+</div>

@@ -1,0 +1,59 @@
+  <div class="workExperience">
+### Work Experience
+- Web Developer Intern
+Elite Softwares, Pune
+December 2022
+- Worked full stack dynamic website development from experienced developers.
+- Gained exposure to front-end development using HTML5, CSS and Bootstrap framework.
+- Worked with supervisor, admin logic, authentication and registration.
+- Gained elementary knowledge of Django - REST framework.
+- Worked extensively with MyAdmin.
+</div>
+<div class="projects">
+### Projects
+- Website Development
+- Setup up Apache server using XAMPP on Windows operating system
+- Designed dynamic shopping website using HTML5/CSS/Bootstrap for front-end
+- Used PHP for back-end APIs
+- Integrated social media APIs
+- Designed inventory management website with Django, HTML5/CSS/Bootstrap
+- Developed forums for MyPadhin
+- Worked extensively with MyPadhin
+- Colouring Machine
+- Programmed Arduino nano for sorting colored balls using sensor and servo motor
+- Interfaced PIC18 microcontroller for temperature detection using sensor and LCD display
+</div>
+<div class="skills">
+### Skills
+- Programming Languages: Core Java, Python, C++, HTML, CSS, PHP, GIT
+- Frameworks: Web - Django, Bootstrap
+- ML/DS Library: Scikit-Learn, Pandas, Seaborn, NumPy, Matplotlib
+- Databases: MySQL, PostgreSQL, MongoDB, Microsoft Office
+- Tools: GitHub, GitLab, CPanel, MyPadhin, Canva, Microsoft Office
+- Relevant Courses: Data Structures and Algorithms, Software Engineering, Operating Systems, Processor Architectures, OOP
+- Certifications: ITB Tutorials on Java, Python, Cpp
+</div>
+<div class="gapsIdentified">
+### Gaps Identified
+- Lack of professional summary highlighting key skills and achievements.
+- Limited description of work experience, making it difficult to assess the depth of involvement and impact.
+- Absence of quantifiable achievements or metrics to demonstrate the candidate's contributions.
+- Inconsistent formatting and structure, making it challenging to navigate and read the resume.
+- Lack of a clear career objective or statement of purpose, making it difficult to understand the candidate's career aspirations and goals.
+</div>
+<div class="tailoredRecommendations">
+### Tailored Recommendations
+- **Professional Summary:** Begin the resume with a compelling professional summary that succinctly highlights your key skills, experiences, and career aspirations. Tailor this summary to the specific job role or industry you are applying to, showcasing how your background aligns with the position.
+
+- **Work Experience:** Expand on your work experience by providing more detailed descriptions of your responsibilities, achievements, and the impact you made in each role. Use bullet points to make your experience easily scannable and highlight quantifiable achievements whenever possible.
+
+- **Projects:** Include a dedicated section for personal projects or extracurricular activities that demonstrate your skills and interests. Provide a brief description of each project, your role, and the technologies used. This section can help recruiters understand your passion and commitment to your field.
+
+- **Skills:** List your technical and soft skills in a separate section, using a clear and consistent format. Consider using keywords relevant to the job you are applying for to increase the visibility of your resume in applicant tracking systems (ATS).
+
+- **Education:** Include your educational background, including degrees, institutions, and graduation dates. If you have a strong academic record, consider including relevant honors or awards.
+
+- **Additional Sections:** Depending on the role you are applying for, you may want to include additional sections such as certifications, languages, or volunteer experience. These sections can provide additional insights into your qualifications and well-roundedness.
+
+- **Proofread and Edit:** Before submitting your resume, carefully proofread and edit it for any errors in grammar, spelling, or formatting. A well-written and error-free resume will make a positive impression on potential employers.
+</div>
