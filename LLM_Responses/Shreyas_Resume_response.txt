@@ -1,39 +1,49 @@
-  <div class="workExperience">
-**Work Experience**
-- Software Engineer Intern at XYZ Company (2022)
-- Developed and maintained software applications
-- Worked on a team of engineers to design and implement new features
-- Gained experience in the software development process
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Developed and maintained software applications</li>
+    <li>Worked on a team of engineers to design and implement new features</li>
+    <li>Gained experience in the software development process</li>
+  </ul>
 </div>
+
 <div class="projects">
-**Projects**
-- Developed a mobile app for XYZ Company (2021)
-- Worked on a team of developers to design and implement the app
-- The app was released on the App Store and Google Play
-- Contributed to the development of a new software application for ABC Company (2020)
-- Worked on a team of developers to design and implement the application
-- The application was deployed on the company's servers
+  <h2>Projects</h2>
+  <ul>
+    <li>Worked on a team of developers to design and implement the app</li>
+    <li>The app was released on the App Store and Google Play</li>
+    <li>Contributed to the development of a new software application for ABC Company (2020)</li>
+    <li>Worked on a team of developers to design and implement the application</li>
+    <li>The application was deployed on the company's servers</li>
+  </ul>
 </div>
 <div class="skills">
-**Skills/Technical Skills**
-- Programming languages: Python, Java, C++, HTML, CSS
-- Software: Microsoft Office Suite, Google Suite, Jira, Trello
-- Technical skills: Data structures, algorithms, databases
+  <h2>Skills</h2>
+  <ul>
+    <li>Programming languages: Python, Java, C++, HTML, CSS</li>
+    <li>Software: Microsoft Office Suite, Google Suite, Jira, Trello</li>
+    <li>Technical skills: Data structures, algorithms, databases</li>
+  </ul>
 </div>
+
 <div class="gapsIdentified">
-**Gaps Identified**
-- Lack of experience in a professional setting
-- Limited exposure to real-world projects
-- Need to improve communication skills
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of experience in a professional setting</li>
+    <li>Limited exposure to real-world projects</li>
+    <li>Need to improve communication skills</li>
+  </ul>
 </div>
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- Gain experience through internships or part-time jobs
-- Work on personal projects to build your portfolio
-- Join a student organization or club to develop your communication skills
-- Consider taking online courses or attending workshops to learn new skills
-- Tailor your resume to each job you apply for
-- Highlight your skills and experience that are relevant to the job
-- Use keywords in your resume that are likely to be used by recruiters
-- Proofread your resume carefully before submitting it
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Gain experience through internships or part-time jobs</li>
+    <li>Work on personal projects to build your portfolio</li>
+    <li>Join a student organization or club to develop your communication skills</li>
+    <li>Consider taking online courses or attending workshops to learn new skills</li>
+    <li>Tailor your resume to each job you apply for</li>
+    <li>Highlight your skills and experience that are relevant to the job</li>
+    <li>Use keywords in your resume that are likely to be used by recruiters</li>
+    <li>Proofread your resume carefully before submitting it</li>
+  </ul>
 </div>

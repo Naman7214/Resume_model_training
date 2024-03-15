@@ -1,13 +1,6 @@
+Page 1 of 1 
  
- 
- 
- 
- 
- 
- 
- Page 1 of 1 
- 
- Isha  Velankar  
+Isha  Velankar  
  
 Email: ishavelankar2021.it@mmcoe.edu.in   
 Ph: +91 9 860539406  
@@ -52,17 +45,7 @@ HTML, CSS , PHP(basic) , Javascript(basic).  Career Objective
       
 Technical Skills  
  Educational Qualification  
-  
- 
- 
- 
- 
- 
- 
  Page 2 of 2 
- 
-  
- 
                                                                                 
 Project 1 :              
 ➢ Name : UAPI(User Application Programmable Interface) – Student Result Management 
@@ -106,15 +89,9 @@ panels.
 • Collection of logs  
 • Creating visualizations  
 ➢ Tools: Splunk. (enterprise and forwarder).  Projects   
- 
- 
- 
- 
- 
+
  
  Page 3 of 3 
- 
-  
  
  
 • Institute of Engineers India(IEI) Pune Local Centre Journal  

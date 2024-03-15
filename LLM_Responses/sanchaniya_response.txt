@@ -1,61 +1,72 @@
-  <div class="workExperience">
-**Work Experience**
-- GIS Intern at Varaha ClimateAq Pvt Ltd, Bengaluru, Karnataka
-- Web Development Intern at Elite Software, Pune, Maharashtra, India
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>GIS Intern at Varaha ClimateAq Pvt Ltd, Bengaluru, Karnataka</li>
+    <li>Web Development Intern at Elite Software, Pune, Maharashtra, India</li>
+  </ul>
 </div>
 
 <div class="projects">
-**Projects**
-- Python powered AI Desktop Assistant
-- Al Virtual Whiteboard
+  <h2>Projects</h2>
+  <ul>
+    <li>Python powered AI Desktop Assistant</li>
+    <li>Al Virtual Whiteboard</li>
+  </ul>
 </div>
 
 <div class="skills">
-**Skills/Technical Skills**
-- Python
-- C++
-- JavaScript
-- HTML/CSS
-- Git
-- Github
-- PyCharm
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Flask
-- Django
-- PostgreSQL
-- OpenCV
-- MediaPipe
-- PyGame
-- TensorFlow
-- Keras
-- Scikit-learn
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>C++</li>
+    <li>JavaScript</li>
+    <li>HTML/CSS</li>
+    <li>Git</li>
+    <li>Github</li>
+    <li>PyCharm</li>
+    <li>Jupyter Notebook</li>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>Matplotlib</li>
+    <li>Scikit-Learn</li>
+    <li>Flask</li>
+    <li>Django</li>
+    <li>PostgreSQL</li>
+    <li>OpenCV</li>
+    <li>MediaPipe</li>
+    <li>PyGame</li>
+    <li>TensorFlow</li>
+    <li>Keras</li>
+    <li>Scikit-learn</li>
+  </ul>
 </div>
 
 <div class="gapsIdentified">
-**Gaps Identified**
-- Lack of information about the applicant's salary expectations and job experience level.
-- The applicant's resume does not include a summary or objective statement that highlights their career goals or interests.
-- The applicant's resume does not include any volunteer experience or extracurricular activities.
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of information about the applicant's salary expectations and job experience level.</li>
+    <li>The applicant's resume does not include a summary or objective statement that highlights their career goals or
+      interests.</li>
+    <li>The applicant's resume does not include any volunteer experience or extracurricular activities.</li>
+  </ul>
 </div>
 
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- Add a summary or objective statement to your resume that highlights your career goals or interests.
-- Include information about your salary expectations and job experience level.
-- List any volunteer experience or extracurricular activities that you have participated in.
-- Proofread your resume for any errors or inconsistencies.
-- Use keywords that are relevant to the job you are applying for.
-- Tailor your resume to each job you apply for.
-- Use a professional font and layout.
-- Keep your resume concise and easy to read.
-- Highlight your skills and experience that are most relevant to the job you are applying for.
-- Use action verbs to describe your work experience.
-- Quantify your accomplishments whenever possible.
-- Use bullet points to make your resume easy to read.
-- Avoid using too much jargon or technical terms.
-- Make sure your resume is error-free.
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Add a summary or objective statement to your resume that highlights your career goals or interests.</li>
+    <li>Include information about your salary expectations and job experience level.</li>
+    <li>List any volunteer experience or extracurricular activities that you have participated in.</li>
+    <li>Proofread your resume for any errors or inconsistencies.</li>
+    <li>Use keywords that are relevant to the job you are applying for.</li>
+    <li>Tailor your resume to each job you apply for.</li>
+    <li>Use a professional font and layout.</li>
+    <li>Keep your resume concise and easy to read.</li>
+    <li>Highlight your skills and experience that are most relevant to the job you are applying for.</li>
+    <li>Use action verbs to describe your work experience.</li>
+    <li>Quantify your accomplishments whenever possible.</li>
+    <li>Use bullet points to make your resume easy to read.</li>
+    <li>Avoid using too much jargon or technical terms.</li>
+    <li>Make sure your resume is error-free.</li>
+  </ul>
 </div>

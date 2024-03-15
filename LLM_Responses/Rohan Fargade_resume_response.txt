@@ -1,33 +1,58 @@
-  ## **Summary**
-- **Work Experience**
-  - SDE Intern at Blue Stone India Pvt Ltd from Jan 2024
-  - Backend Developer Intern at SuperEasy Technologies from Dec 2023
-- **Projects**
-  - Worked on departmental projects
-  - Saarthi - The AI Assistant
-  - ConnectiT - dashboard for department
-- **Skills**
-  - Programming Languages: Python, Java
-  - Database and Framework: MySQL and SQLIte, MongoDB
-  - Tools: Git, GitHub, Figma, Canva
-  - Soft Skills: Communication, Teamwork, Problem Solving, Adaptability
-- **Education**
-  - BE in Information Technology from 2021 to 2025 at MIT College of Engineering, Pune
-  - HSC from RMD Ambedkar Junior College in 2019
-  - SSC from Ahmednagar in 2017
-- **Achievements**
-  - Secured first rank in ItSpeedHack, a departmental hackathon
-  - Secured first rank in SH'23 in Internal Hackathon 2023 held in college
-  - Secured first rank in UDAAN Competition in Non-Technical 2022
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>SDE Intern at Blue Stone India Pvt Ltd from Jan 2024</li>
+    <li>Backend Developer Intern at SuperEasy Technologies from Dec 2023</li>
+  </ul>
+</div>
 
-## **Gaps Identified**
-- The work experience section is limited, with only two internships listed. Consider adding more relevant experiences, such as freelance projects or part-time jobs.
-- The skills section could be expanded to include more technical skills, such as specific programming languages, frameworks, or tools.
-- The education section could be enhanced by including academic achievements, such as GPA or relevant coursework.
 
-## **Tailored Recommendations**
-- In the work experience section, consider highlighting specific projects or responsibilities that demonstrate your technical abilities and align with your interests.
-- In the skills section, focus on listing technical skills that are relevant to your field of interest and supported by your work experience.
-- In the education section, consider including any relevant coursework or projects that demonstrate your abilities and align with your career goals.
-- Consider including a summary statement at the beginning of your resume that highlights your key skills, experiences, and career goals.
-- Tailor your resume to each job application by highlighting the most relevant skills and experiences for the specific position.
+<div class="projects">
+  <h2>Projects</h2>
+  <ul>
+    <li> Worked on departmental projects</li>
+    <li> Saarthi - The AI Assistant</li>
+    <li> ConnectiT - dashboard for department</li>
+  </ul>
+</div>
+
+
+
+<div class="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>Programming Languages: Python, Java</li>
+    <li>Database and Framework: MySQL and SQLIte, MongoDB</li>
+    <li>Tools: Git, GitHub, Figma, Canva</li>
+    <li>Soft Skills: Communication, Teamwork, Problem Solving, Adaptability</li>
+  </ul>
+</div>
+
+
+<div class="gapsIdentified">
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>The work experience section is limited, with only two internships listed. Consider adding more relevant
+      experiences, such as freelance projects or part-time jobs.</li>
+    <li>The skills section could be expanded to include more technical skills, such as specific programming languages,
+      frameworks, or tools.</li>
+    <li>The education section could be enhanced by including academic achievements, such as GPA or relevant coursework.
+    </li>
+  </ul>
+</div>
+
+<div class="tailoredRecommendations">
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>In the work experience section, consider highlighting specific projects or responsibilities that demonstrate
+      your technical abilities and align with your interests.</li>
+    <li>In the skills section, focus on listing technical skills that are relevant to your field of interest and
+      supported by your work experience.</li>
+    <li>In the education section, consider including any relevant coursework or projects that demonstrate your abilities
+      and align with your career goals.</li>
+    <li>Consider including a summary statement at the beginning of your resume that highlights your key skills,
+      experiences, and career goals.</li>
+    <li>Tailor your resume to each job application by highlighting the most relevant skills and experiences for the
+      specific position.</li>
+  </ul>
+</div>

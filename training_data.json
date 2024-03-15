@@ -1,0 +1,128 @@
+[
+    {
+        "input":"AJEET  LOKHANDE  
+        9420569466  | ajeetl.work@gmail.com  | www.linkedin.com/in/ajeet -lokhande -384193207  
+         
+         
+        As an IT undergraduate with a passion for innovation, I a m eager to embark on a journey of practical learning 
+        and professional growth.  I am committed to applying my th eoretical knowledge to real -world challenges, 
+        contributing to dynamic teams, and expanding my skill set while delivering impactful solutions in the 
+        field  of technology.  
+        PROFESSIONAL EXPERIENCE  
+         
+        EFF OCESS TECHWORKS   (MAR 2023 – JUN 2023 ) 
+        Mobile application design and development intern  
+        • Developed UI/ UX interfaces for mobile applica tions.  
+        • Designed Templates for Android  and IOS applications for mobil e applications.  
+        • Desig ned and developed  Chatbot for t he mobile  appl ication . 
+        • Skilled in designing tools like Figma  and developed cross platform apps with Flutter us ing Dart /Java . 
+         
+        ACM Student ’s Chapter MMC OE (AUG  2022 – AUG 20 23) 
+        Event Manager (font -end)  
+        • Conducted multiple events  online as well as o ffline  including hac kathons and social eve nts. 
+        • Worked and administered to conduct multiple  Webinars.  
+        EDUCATION  
+         
+        Marathwada Mitramandal ’s College of En gineering , Pune         (2020-2024) 
+           Course: Bachelor  of Engineering,  GPA: 8.52 (TE)  
+        St. Xavier’s School and Junior  College   
+        Higher Secondary School (HSC) – 62.62 %   (2018 -20) 
+        Secondary School  (SSC) – 88.40%  (2017 -18) 
+        SKILLS & OTHER  
+         
+        • Java 
+        • Python  
+        • JavaScrip t 
+        • Google C loud  Platform  
+        • Next.js  • React.js  
+        • HTML  
+        • Tailwind CSS  
+        • Figma  
+        • MySQL
+        CERTIFIATIONS  
+         
+        • Google Cloud P rogram .  
+        • Certificate for Completion  of Python training . (Spoken tutorial by IIT B)  
+        • The Complete Python Bootcamp from Zero to Hero in Python . (Udemy)  
+        PROJECTS  
+         
+        PERSONAL PORTFOLIO WEBSITE   
+        • Developed  a Mobile -respons ive stunning portfolio  website with advance framer motions . 
+        • Developed using N ext.js, tailwind CSS and dep loyed on Vercel . (Deployment  in process)  
+        SOCIAL MEDIA MANAGER  
+        • A Media Manager for  Instagram , Facebook, YouTube , etc. with  funct ionalities such as URL  shortener , 
+        bulk posting , scheduler  and many more , will feature  a single analysis  dashboard  of all the content.  
+        • Stack used:  MERN stack , Hootsuite, and Google Analytics . ",
+        
+        "output":"<div class=\"workExperience\">
+        <h2>Work Experience</h2>
+        <ul>
+        <li>EFOCSS TECHNOLOGIES</li>
+        <li>Mobile application design and development intern</li>
+        <li>MAR 2023 - JUN 2023</li>
+        <ul>
+        <li>Designed and developed chatbot for the mobile applications.</li>
+        <li>Designed UI/UX interfaces for mobile applications.</li>
+        <li>Designed and developed cross platform apps with Flutter using Dart/Java.</li>
+        </ul>
+        <li>ACM Student's Chapter MMCOE</li>
+        <li>Event Manager (front-end)</li>
+        <li>AUG 2022 - AUG 2023</li>
+        <ul>
+        <li>Conducted multiple events online as well as offline including hackathons and social events.</li>
+        <li>Worked and administered to conduct multiple Webinars.</li>
+        </ul>
+        </ul>
+        </div>
+        <div class="projects">
+        <h2>Projects</h2>
+        <ul>
+        <li>Developed a Mobile-responsive stunning portfolio website with advance framer motions.</li>
+        <li>Deployed a Node.js, tailwind CSS and deployed on Vercel. (Deployment in process)</li>
+        <li>A Media Manager for Instagram, Facebook, YouTube, etc. with functionalities such as URL shortener, bulk posting, scheduled and many more, will feature a single analysis dashboard of all the content.</li>
+        </ul>
+        </div>
+        <div class="skills">
+        <h2>Skills & Other</h2>
+        <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Google Cloud Platform</li>
+        <li>Next.js</li>
+        <li>React.js</li>
+        <li>HTML</li>
+        <li>Tailwind CSS</li>
+        <li>Figma</li>
+        <li>MySQL</li>
+        </ul>
+        </div>
+        <div class="gapsIdentified">
+        <h2>Gaps Identified</h2>
+        <ul>
+        <li>Lack of information regarding job experience in the field of interest.</li>
+        <li>No information is provided regarding salary expectations.</li>
+        <li>The resume does not clearly state the level of job experience.</li>
+        </ul>
+        </div>
+        <div class="tailoredRecommendations">
+        <h2>Tailored Recommendations</h2>
+        <ul>
+        <li>Include relevant job experience in the field of interest to provide a clearer picture of your qualifications.</li>
+        <li>Specify salary expectations to help potential employers understand your compensation requirements.</li>
+        <li>Clearly state the level of job experience, such as entry-level, mid-level, or senior-level, to provide context for your qualifications.</li>
+        <li>Highlight any additional skills or experiences that may be relevant to the job you are applying for.</li>
+        <li>Proofread the resume carefully for any errors or inconsistencies.</li>
+        <li>Use a professional and easy-to-read font and layout.</li>
+        <li>Keep the resume concise and to the point, avoiding unnecessary information.</li>
+        <li>Tailor the resume to the specific job you are applying for, highlighting the most relevant skills and experiences.</li>
+        <li>Use keywords that are relevant to the job you are applying for.</li>
+        <li>Quantify your achievements whenever possible to demonstrate your impact.</li>
+        <li>Use action verbs to describe your accomplishments.</li>
+        <li>Highlight any leadership or teamwork experiences.</li>
+        <li>Include any relevant certifications or awards.</li>
+        <li>Proofread the resume carefully before submitting it.</li>
+        </ul>
+        </div>"
+    }
+]

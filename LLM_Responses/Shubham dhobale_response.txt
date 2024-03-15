@@ -1,46 +1,46 @@
-  <div class="workExperience">
-<h3>Work Experience</h3>
-<ul>
-<li>Web Developer Intern, <a href="https://www.google.com">Google</a> (May 2023 - Present)</li>
-<li>Software Engineer Intern, <a href="https://www.microsoft.com">Microsoft</a> (June 2022 - August 2022)</li>
-</ul>
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Web Developer Intern (May 2023 - Present)</li>
+    <li>Software Engineer Intern (June 2022 - August 2022)</li>
+  </ul>
 </div>
 <div class="projects">
-<h3>Projects</h3>
-<ul>
-<li><b>Golf Website Clone:</b> A clone of the Golf Website, a popular golf-related website. This project involved replicating the functionality and design of the original website, including features such as user authentication, user profiles, and a golf course database.</li>
-<li><b>Restaurant Website:</b> A content management system for a restaurant, allowing the owner to easily update the menu, staff information, and other content.</li>
-<li><b>E-commerce Website:</b> A simple e-commerce website built using Django and Stripe.</li>
-</ul>
+  <h2>Projects</h2>
+  <ul>
+    <li>Golf Website Clone: A clone of the Golf Website, a popular golf-related website. This project involved replicating the functionality and design of the original website, including features such as user authentication, user profiles, and a golf course database.</li>
+    <li>Restaurant Website: A content management system for a restaurant, allowing the owner to easily update the menu, staff information, and other content.</li>
+    <li>E-commerce Website: A simple e-commerce website built using Django and Stripe.</li>
+  </ul>
 </div>
 <div class="skills">
-<h3>Skills</h3>
-<ul>
-<li>Python</li>
-<li>Django</li>
-<li>JavaScript</li>
-<li>React</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>SQL</li>
-<li>Git</li>
-</ul>
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>Django</li>
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>SQL</li>
+    <li>Git</li>
+  </ul>
 </div>
 <div class="gapsIdentified">
-<h3>Gaps Identified</h3>
-<ul>
-<li>Lack of formal education in computer science.</li>
-<li>Limited work experience in the tech industry.</li>
-<li>No open-source contributions.</li>
-</ul>
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of formal education in computer science.</li>
+    <li>Limited work experience in the tech industry.</li>
+    <li>No open-source contributions.</li>
+  </ul>
 </div>
 <div class="tailoredRecommendations">
-<h3>Tailored Recommendations</h3>
-<ul>
-<li>Consider pursuing a bachelor's degree in computer science or a related field to gain a solid foundation in the field.</li>
-<li>Seek out opportunities to gain more work experience in the tech industry, such as internships or freelance projects.</li>
-<li>Contribute to open-source projects to demonstrate your skills and experience to potential employers.</li>
-<li>Build a strong online presence by creating a personal website or blog, and sharing your work on social media.</li>
-<li>Network with people in the tech industry to learn about new opportunities and get your foot in the door.</li>
-</ul>
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Consider pursuing a bachelor's degree in computer science or a related field to gain a solid foundation in the field.</li>
+    <li>Seek out opportunities to gain more work experience in the tech industry, such as internships or freelance projects.</li>
+    <li>Contribute to open-source projects to demonstrate your skills and experience to potential employers.</li>
+    <li>Build a strong online presence by creating a personal website or blog, and sharing your work on social media. </li>
+    <li>Network with people in the tech industry to learn about new opportunities and get your foot in the door.</li>
+  </ul>
 </div>

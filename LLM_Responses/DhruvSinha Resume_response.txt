@@ -1,33 +1,43 @@
   <div class="workExperience">
-**Work Experience**
-- Data Analyst Intern at XYZ Company (2022)
-- Developed and implemented data analysis models to optimize marketing campaigns
-- Analyzed customer data to identify trends and patterns
-- Worked with cross-functional teams to develop data-driven solutions
+<h2>Work Experience</h2>
+<ul>
+ <li>Data Analyst Intern at XYZ Company (2022)</li>
+ <li>Developed and implemented data analysis models to optimize marketing campaigns</li>
+ <li>Analyzed customer data to identify trends and patterns</li>
+ <li>Worked with cross-functional teams to develop data-driven solutions</li>
+</ul>
 </div>
 <div class="projects">
-**Projects**
-- Built a machine learning model to predict customer churn
-- Developed a web application to track employee productivity
-- Designed a database to store and analyze customer data
+<h2>Projects</h2>
+<ul>
+ <li>Built a machine learning model to predict customer churn</li>
+ <li>Developed a web application to track employee productivity</li>
+ <li>Designed a database to store and analyze customer data</li>
+</ul>
 </div>
 <div class="skills">
-**Skills**
-- Python
-- SQL
-- Machine Learning
-- Data Analysis
-- Data Visualization
+<h2>Skills</h2>
+<ul>
+ <li>Python</li>
+ <li>SQL</li>
+ <li>Machine Learning</li>
+ <li>Data Analysis</li>
+ <li>Data Visualization</li>
+</ul>
 </div>
 <div class="gapsIdentified">
-**Gaps Identified**
-- Lack of experience in a full-time role
-- Limited exposure to real-world projects
-- Need to develop stronger communication skills
+<h2>Gaps Identified</h2>
+<ul>
+ <li>Lack of experience in a full-time role</li>
+ <li>Limited exposure to real-world projects</li>
+ <li>Need to develop stronger communication skills</li>
+</ul>
 </div>
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- Apply for internships and entry-level jobs to gain experience
-- Volunteer for projects that will allow you to develop your skills
-- Take online courses to improve your communication skills
+<h2>Tailored Recommendations</h2>
+<ul>
+ <li>Apply for internships and entry-level jobs to gain experience</li>
+ <li>Volunteer for projects that will allow you to develop your skills</li>
+ <li>Take online courses to improve your communication skills</li>
+</ul>
 </div>

@@ -1,48 +1,59 @@
-  <div class="workExperience">
-**Work Experience**
-- **XYZ Company**
-  - Software Engineer
-  - 2020-Present
-  - Developed and maintained software applications for the company's clients.
-  - Worked on a team of engineers to design, develop, and test new software features.
-  - Collaborated with other teams to ensure that the software applications were integrated with the company's other systems.
-- **ABC Company**
-  - Software Engineer Intern
-  - 2019-2020
-  - Developed and tested software applications for the company's internal use.
-  - Worked on a team of engineers to design, develop, and test new software features.
-  - Gained experience in the software development process and learned new programming languages and technologies.
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <p>As a student with no prior work experience, you might consider including relevant coursework, internships, or
+    volunteer experiences to demonstrate your skills and abilities. This section could be further enhanced by
+    highlighting any leadership roles or responsibilities you've held in academic projects or extracurricular
+    activities.</p>
 </div>
 <div class="projects">
-**Projects**
-- **Online Examination System**
-  - Developed a web-based online examination system using PHP and MySQL.
-  - The system allows users to create and take exams, and it automatically grades the exams.
-- **Library Management System**
-  - Developed a desktop application for managing a library.
-  - The system allows users to add, edit, and delete books, as well as track who has borrowed books.
-- **E-Commerce Website**
-  - Developed an e-commerce website using HTML, CSS, JavaScript, and PHP.
-  - The website allows users to browse products, add items to their carts, and checkout.
+  <h2>Projects</h2>
+  <p>Faculty Dashboard</p>
+  <ul>
+    <li>A web application developed using HTML, CSS, and JavaScript to provide a user-friendly interface for faculty
+      members to manage their academic information.</li>
+  </ul>
+  <p>YouTube Clone</p>
+  <ul>
+    <li>A web application developed using HTML, CSS, and JavaScript that allows users to watch and share videos, similar
+      to YouTube.</li>
+  </ul>
 </div>
+
 <div class="skills">
-**Skills**
-- Programming Languages: Python, Java, C++, C
-- Web Technologies: HTML, CSS, JavaScript
--Databases: MySQL, MongoDB
--Version Control: Git
--Project Management: Jira, Trello
--Communication: English, Marathi, Hindi
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+    <li>Basic Knowledge of Python, C, C++, Core Java</li>
+  </ul>
 </div>
+
 <div class="gapsIdentified">
-**Gaps Identified**
-- The resume does not include a summary of the applicant's skills and experience.
-- The resume does not include any information about the applicant's salary expectations.
-- The resume does not include any information about the applicant's job experience level.
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>As expected, your resume does not include a work experience section since you are a student. However, consider
+      including relevant coursework, projects, or internships to showcase your abilities and qualifications.</li>
+    <li>You have not specified your salary expectations in the resume. It is recommended to include a salary range or
+      indicate your willingness to negotiate during the interview process.</li>
+  </ul>
 </div>
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- Add a summary of your skills and experience to the top of your resume. This will give employers a quick overview of your qualifications.
-- Include information about your salary expectations in your resume. This will help employers determine if you are a good fit for their budget.
-- Include information about your job experience level in your resume. This will help employers determine if you have the necessary experience for the job.
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Since you are a student with limited work experience, focus on highlighting your academic achievements, relevant
+      coursework, and any extracurricular activities that demonstrate your skills and leadership abilities. Consider
+      including a section called "Education and Experience" to showcase your qualifications.</li>
+    <li>The projects section is a great way to showcase your technical skills and abilities. Consider expanding this
+      section by including more details about each project, such as your role, responsibilities, and the</li>
+    <li>technologies used. Quantify your achievements whenever possible to demonstrate the impact of your work.</li>
+    <li>While you have listed some of your skills, consider expanding this section to include additional technical
+      skills relevant to web development, such as Bootstrap, React, or Node.js. Additionally, mention any soft skills
+      that are valuable in the workplace, such as communication, teamwork, or problem-solving.</li>
+    <li>It is recommended to include your salary expectations in the resume or be prepared to discuss them during the
+      interview process. Research the average salary for web developers in your area and consider your skills and
+      experience when determining your expectations.</li>
+  </ul>
 </div>

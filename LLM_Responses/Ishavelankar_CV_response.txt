@@ -1,28 +1,46 @@
- # Resume Analysis Report for Isha Velankar
+<div class="workExperience">
+    <h2>Work Experience</h2>
+    <p>Isha has worked as a Software Engineer Intern at Tata Consultancy Services from May 2022 to July 2022. In this
+        role, she gained experience in developing and testing software applications. She also worked on a project to
+        develop a new feature for the company's flagship product.</p>
+</div>
 
-## Work Experience
-Isha has worked as a Software Engineer Intern at Tata Consultancy Services from May 2022 to July 2022. In this role, she gained experience in developing and testing software applications. She also worked on a project to develop a new feature for the company's flagship product.
+<div class="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li>A project to develop a mobile application for tracking student attendance.</li>
+        <li>A project to develop a website for a local business.</li>
+        <li>A project to develop a chatbot for a customer service application.</li>
+    </ul>
+</div>
 
-## Projects
-Isha has completed several projects during her academic career. These projects include:
+<div class="skills">
+    <h2>Skills</h2>
+    <p>Isha has a strong foundation in programming languages such as C, C++, Java, and Python. She is also proficient in
+        using various software development tools and technologies, including Visual Studio, Eclipse, and Git. In
+        addition, Isha has excellent communication and teamwork skills.</p>
+</div>
 
-- A project to develop a mobile application for tracking student attendance.
-- A project to develop a website for a local business.
-- A project to develop a chatbot for a customer service application.
+<div class="gapsIdentified">
+    <h2>Gaps Identified</h2>
+    <p>There are a few areas where Isha's resume could be improved. First, she could add more detail to her work
+        experience section. For example, she could provide more information about the projects she worked on and the
+        technologies she used. Second, Isha could add a section to her resume highlighting her skills and technical
+        abilities. This section could include a list of her programming languages, software development tools, and other
+        relevant skills. Finally, Isha could add a section to her resume highlighting her educational background. This
+        section could include her GPA, major, and any relevant coursework.</p>
+</div>
 
-## Skills/Technical Skills
-Isha has a strong foundation in programming languages such as C, C++, Java, and Python. She is also proficient in using various software development tools and technologies, including Visual Studio, Eclipse, and Git. In addition, Isha has excellent communication and teamwork skills.
-
-## Gaps Identified
-There are a few areas where Isha's resume could be improved. First, she could add more detail to her work experience section. For example, she could provide more information about the projects she worked on and the technologies she used. Second, Isha could add a section to her resume highlighting her skills and technical abilities. This section could include a list of her programming languages, software development tools, and other relevant skills. Finally, Isha could add a section to her resume highlighting her educational background. This section could include her GPA, major, and any relevant coursework.
-
-## Tailored Recommendations
-To improve her resume, Isha should consider the following recommendations:
-
-- Add more detail to her work experience section. For example, she could provide more information about the projects she worked on and the technologies she used.
-- Add a section to her resume highlighting her skills and technical abilities. This section could include a list of her programming languages, software development tools, and other relevant skills.
-- Add a section to her resume highlighting her educational background. This section could include her GPA, major, and any relevant coursework.
-- Consider using a more professional font and layout for her resume.
-- Proofread her resume carefully for any errors.
-
-By following these recommendations, Isha can improve her resume and make it more competitive in the job market.
+<div class="tailoredRecommendations">
+    <h2>Tailored Recommendations</h2>
+    <ul>
+        <li>Add more detail to her work experience section. For example, she could provide more information about the
+            projects she worked on and the technologies she used.</li>
+        <li>Add a section to her resume highlighting her skills and technical abilities. This section could include a
+            list of her programming languages, software development tools, and other relevant skills.</li>
+        <li>Add a section to her resume highlighting her educational background. This section could include her GPA,
+            major, and any relevant coursework.</li>
+        <li>Consider using a more professional font and layout for her resume.</li>
+        <li>Proofread her resume carefully for any errors.</li>
+    </ul>
+</div>

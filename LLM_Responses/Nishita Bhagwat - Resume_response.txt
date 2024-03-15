@@ -1,51 +1,63 @@
-  <div class="workExperience">
-<h3>Work Experience</h3>
-<ul>
-<li>Web Development Intern | Nikam Tours | 02/2023 - Current</li>
-<ul>
-<li>Actively involved in the development of the 'Nikam Tours' Website, with the primary objective to create a professional and user-friendly online platform for Nikam Tours.</li>
-<li>My responsibilities encompassed the entire website, incorporating a range of functionalities to enhance user experience.</li>
-<li>Additionally, I played a crucial role in integrating both existing and new data into the website, ensuring that it presented comprehensive and up-to-date information for visitors.</li>
-</ul>
-<li>Research Paper | Institution of Engineers | 04/2019</li>
-<ul>
-<li>The research paper focused on the topic 'Development of an Online Community and Collaboration Platform for NGOs and Disaster Management'.</li>
-<li>Conducted with 15 October 2022.</li>
-</ul>
-<li>First Rank | IEEE Ideastorm | 27 August 2022</li>
-</ul>
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <p>Web Development Intern | Nikam Tours (02/2023 - Current)</p>
+  <ul>
+      <li>Actively involved in the development of the 'Nikam Tours' Website, with the primary objective to create a
+        professional and user-friendly online platform for Nikam Tours.</li>
+      <li>My responsibilities encompassed the entire website, incorporating a range of functionalities to enhance user
+        experience.</li>
+      <li>Additionally, I played a crucial role in integrating both existing and new data into the website, ensuring
+        that it presented comprehensive and up-to-date information for visitors.</li>
+  </ul>
+  <p>Research Paper | Institution of Engineers | 04/2019</p>
+  <ul>
+      <li>The research paper focused on the topic 'Development of an Online Community and Collaboration Platform for
+        NGOs and Disaster Management'.</li>
+      <li>Conducted with 15 October 2022.</li>
+  </ul>
+    <p>First Rank | IEEE Ideastorm | 27 August 2022</p>
 </div>
 <div class="projects">
-<h3>Projects</h3>
-<ul>
-<li>Technical - Machine Learning, Python, NumPy, Pandas, Scikit-learn, MySQL, MongoDB, Power BI, Tableau, C++, Core Java, HTML & CSS, Microsoft Excel, Office, PowerPoint, Figma, Canva</li>
-<li>Non-technical - Problem Solving, Time Management, Multitasking, Leadership, Teamwork, Communication Skills, Fast Learner</li>
-</ul>
+  <h2>Projects</h2>
+  <ul>
+    <li>Technical - Machine Learning, Python, NumPy, Pandas, Scikit-learn, MySQL, MongoDB, Power BI, Tableau, C++, Core
+      Java, HTML & CSS, Microsoft Excel, Office, PowerPoint, Figma, Canva</li>
+    <li>Non-technical - Problem Solving, Time Management, Multitasking, Leadership, Teamwork, Communication Skills, Fast
+      Learner</li>
+  </ul>
 </div>
 <div class="skills">
-<h3>Skills</h3>
-<ul>
-<li>Technical - Machine Learning, Python, NumPy, Pandas, Scikit-learn, MySQL, MongoDB, Power BI, Tableau, C++, Core Java, HTML & CSS, Microsoft Excel, Office, PowerPoint, Figma, Canva</li>
-<li>Non-technical - Problem Solving, Time Management, Multitasking, Leadership, Teamwork, Communication Skills, Fast Learner</li>
-</ul>
+  <h2>Skills</h2>
+  <ul>
+    <li>Technical - Machine Learning, Python, NumPy, Pandas, Scikit-learn, MySQL, MongoDB, Power BI, Tableau, C++, Core
+      Java, HTML & CSS, Microsoft Excel, Office, PowerPoint, Figma, Canva</li>
+    <li>Non-technical - Problem Solving, Time Management, Multitasking, Leadership, Teamwork, Communication Skills, Fast
+      Learner</li>
+  </ul>
 </div>
 <div class="gapsIdentified">
-<h3>Gaps Identified</h3>
-<ul>
-<li>The resume lacks a clear career objective or summary statement that outlines the candidate's professional goals and aspirations.</li>
-<li>The work experience section could be enhanced by providing more quantifiable achievements and results.</li>
-<li>The projects section could benefit from a more detailed description of the candidate's role and responsibilities.</li>
-<li>The skills section should be tailored to highlight the candidate's most relevant skills and abilities.</li>
-<li>The resume could be improved by providing more information about the candidate's educational background.</li>
-</ul>
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>The resume lacks a clear career objective or summary statement that outlines the candidate's professional goals
+      and aspirations.</li>
+    <li>The work experience section could be enhanced by providing more quantifiable achievements and results.</li>
+    <li>The projects section could benefit from a more detailed description of the candidate's role and
+      responsibilities.</li>
+    <li>The skills section should be tailored to highlight the candidate's most relevant skills and abilities.</li>
+    <li>The resume could be improved by providing more information about the candidate's educational background.</li>
+  </ul>
 </div>
 <div class="tailoredRecommendations">
-<h3>Tailored Recommendations</h3>
-<ul>
-<li>Consider adding a clear and concise career objective or summary statement at the beginning of the resume.</li>
-<li>In the work experience section, focus on highlighting specific achievements and results that demonstrate your value and impact.</li>
-<li>For the projects section, provide a more detailed description of your role and responsibilities, including any challenges you faced and how you overcame them.</li>
-<li>Tailor the skills section to highlight the most relevant skills and abilities for the specific job you are applying for.</li>
-<li>Consider including additional information about your educational background, such as any relevant coursework, projects, or research.</li>
-</ul>
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Consider adding a clear and concise career objective or summary statement at the beginning of the resume.</li>
+    <li>In the work experience section, focus on highlighting specific achievements and results that demonstrate your
+      value and impact.</li>
+    <li>For the projects section, provide a more detailed description of your role and responsibilities, including any
+      challenges you faced and how you overcame them.</li>
+    <li>Tailor the skills section to highlight the most relevant skills and abilities for the specific job you are
+      applying for.</li>
+    <li>Consider including additional information about your educational background, such as any relevant coursework,
+      projects, or research.</li>
+  </ul>
 </div>

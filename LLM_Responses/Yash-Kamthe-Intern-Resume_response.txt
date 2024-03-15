@@ -1,32 +1,63 @@
-  <div class="workExperience">
-**Work Experience**
-- Software Developer Intern at Elite Softwares
-  - Gained valuable knowledge in web development technologies, including HTML, CSS, and Django.
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Software Developer Intern at Elite Softwares</li>
+    <li>Gained valuable knowledge in web development technologies, including HTML, CSS, and Django.</li>
+  </ul>
 </div>
+
+
 <div class="projects">
-**Projects**
-- **1. Pedigree Analysis Software (Developer)**
- - Developed a software solution for predicting genetic disease inheritance probabilities from parents to their children, catering to the needs of family concerns.
- - Published a patent for the software under Application Number 202321080474, recognizing its innovative contribution to genetic analysis.
-- **2. AI-powered Legal Documentation Assistant (Backend Developer)**
- - Played a key role in the backend development of a Virtual Legal Documentation Assistant using the Django framework.
- - Actively contributed using Python, SQL, and Django to streamline legal documentation processes.
+  <h2>Projects</h2>
+  <p>Pedigree Analysis Software (Developer)</p>
+  <ul>
+    <li>Developed a software solution for predicting genetic disease inheritance probabilities from parents to their
+      children, catering to the needs of family concerns.</li>
+    <li>Published a patent for the software under Application Number 202321080474, recognizing its innovative
+      contribution to genetic analysis.</li>
+  </ul>
+  <ul>
+    <p>AI-powered Legal Documentation Assistant (Backend Developer)</p>
+    <li>Played a key role in the backend development of a Virtual Legal Documentation Assistant using the Django
+      framework.</li>
+    <li>Actively contributed using Python, SQL, and Django to streamline legal documentation processes.</li>
+  </ul>
 </div>
+
+
 <div class="skills">
-**Skills/Technical Skills**
-- Programming Languages: Java, C++, Python
-- Databases: MongoDB, MySQL
-- Frameworks: Django
+  <h2>Skills</h2>
+  <ul>
+    <li>Programming Languages: Java, C++, Python</li>
+    <li>Databases: MongoDB, MySQL</li>
+    <li>Frameworks: Django</li>
+  </ul>
 </div>
+
+
 <div class="gapsIdentified">
-**Gaps Identified**
-- Lack of information regarding previous work experience or internships, which could provide valuable insights into the applicant's professional journey.
-- Limited mention of projects, showcasing only two projects. Adding more relevant projects would strengthen the applicant's portfolio.
-- The skills section could benefit from further elaboration, highlighting specific technical proficiencies and tools used.
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li> Lack of information regarding previous work experience or internships, which could provide valuable insights
+      into the applicant's professional journey.</li>
+    <li> Limited mention of projects, showcasing only two projects. Adding more relevant projects would strengthen the
+      applicant's portfolio.</li>
+    <li> The skills section could benefit from further elaboration, highlighting specific technical proficiencies and
+      tools used.</li>
+  </ul>
 </div>
+
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- **Work Experience:** Consider including any relevant work experience, even if it is unrelated to the field of interest. This demonstrates your ability to contribute in different environments and can provide context for your career journey.
-- **Projects:** Expand on the two projects mentioned by providing a brief description of each. Highlight the technologies used, your role in the project, and any challenges you faced. If possible, include links to GitHub or other platforms where the projects are hosted.
-- **Skills:** Provide a more comprehensive list of technical skills, including programming languages, frameworks, and tools you are proficient in. Consider quantifying your skills by mentioning the level of proficiency (e.g., beginner, intermediate, advanced).
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li> Consider including any relevant work experience, even if it is unrelated to the field of interest. This
+      demonstrates your ability to contribute in different environments and can provide context for your career journey.
+    </li>
+    <li> Expand on the two projects mentioned by providing a brief description of each. Highlight the technologies used,
+      your role in the project, and any challenges you faced. If possible, include links to GitHub or other platforms
+      where the projects are hosted.</li>
+    <li> Provide a more comprehensive list of technical skills, including programming languages, frameworks, and tools
+      you are proficient in. Consider quantifying your skills by mentioning the level of proficiency (e.g., beginner,
+      intermediate, advanced).</li>
+  </ul>
 </div>

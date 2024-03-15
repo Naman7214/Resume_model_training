@@ -1,33 +1,58 @@
-  ## Summary
-Naman Agnihotri is a highly skilled and experienced software engineer with a strong background in machine learning and artificial intelligence. He has a proven track record of developing and delivering innovative solutions to complex problems. He is also an excellent communicator and team player.
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <p>Intern at Rinex, Pune, Maharashtra (Mar 2021 - Present)</p>
+  <ul>
+    <li>Worked on AI/ML projects</li>
+    <li>Developed Deep Learning models for classification and Regression tasks using Keras.</li>
+  </ul>
+</div>
 
-## Work Experience
-Naman has worked as a Software Engineer at Google for the past two years. In this role, he has developed and deployed several machine learning models for various applications, including image recognition, natural language processing, and speech recognition. He has also worked on several projects related to artificial intelligence, such as developing a chatbot and a virtual assistant.
+<div class="projects">
+  <h2>Projects</h2>
+  <ul>
+    <li>Object Detection using efficientDet Model: Python, OpenCV2, Tensorflow</li>
+    <li>An live object detector based on EfficientDet 2 model that can detect up to 91 objects in real time.</li>
+    <li>Railway Ticket Booking Website: HTML, CSS, JavaScript, PHP, MySQL, Apache</li>
+    <li>A small project which generated e-ticket booking with entire search mechanism and other user oriented features. </li>
+    <li>Alzheimer's Detection Using Brain Scans: TensorFlow, Python</li>
+    <li>Model based on artificial neural network was trained to classify the provided brain scan as Mild Demented, Moderate Demented, Non Demented or Very Mild Demented using VGG16 architecture and CNN layers to perform this classification with accuracy of 84%.</li>
+  </ul>
+</div>
 
-## Projects
-Naman has completed several projects related to machine learning and artificial intelligence. These projects include:
+<div class="skills">
+  <h2>Skills/Technical Skills</h2>
+  <ul>
+    <li>Programming Languages: C, C++, Python, Java</li>
+    <li>Web Development: HTML, CSS, JavaScript, Flask, Django, NodeJS, ExpressJS, FAST API</li>
+    <li>Machine Learning: Python, Pandas, Numpy, Matplotlib, Keras</li>
+    <li>Additional Libraries: AWS, Docker, Jupyter Notebook</li>
+    <li>Client Services: Tableau</li>
+  </ul>
+</div>
 
-- An object detection system using the YOLOv3 model
-- A chatbot that can answer questions about a specific topic
-- A virtual assistant that can perform tasks such as setting reminders and playing music
-- A machine translation system that can translate text from one language to another
+<div class="gapsIdentified">
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Work Experience: The resume does not include any prior work experience, which may be a gap for some employers. </li>
+    <li>Projects: While the resume lists some projects, it would be beneficial to include more details about the scope,
+      impact, and outcomes of each project.</li>
+    <li>Skills/Technical Skills: The resume lists a range of skills, but it would be helpful to highlight the most
+      relevant and sought-after skills in the industry.</li>
+  </ul>
+</div>
 
-## Skills
-Naman has a strong background in machine learning and artificial intelligence. He is also proficient in a variety of programming languages and tools, including Python, Java, and C++. He is also familiar with a variety of machine learning libraries, such as TensorFlow and PyTorch.
-
-## Gaps Identified
-Naman's resume is well-written and comprehensive. However, there are a few areas where he could improve.
-
-- He could provide more detail about his work experience, particularly his role in developing and deploying machine learning models.
-- He could also provide more information about his skills and experience with machine learning libraries and tools.
-- Finally, he could provide more information about his interests and career goals.
-
-## Tailored Recommendations
-Based on the gaps identified, Naman could take the following steps to improve his resume:
-
-- Add more detail about his work experience, particularly his role in developing and deploying machine learning models.
-- Provide more information about his skills and experience with machine learning libraries and tools.
-- Include a section that highlights his interests and career goals.
-- Proofread his resume carefully for any errors.
-
-By following these recommendations, Naman can create a resume that is more tailored to his interests and career goals, and that will help him stand out from the competition.
+<div class="tailoredRecommendations">
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Work Experience: Consider including relevant coursework, internships, or volunteer experiences to demonstrate
+      your skills and experience.</li>
+    <li>Projects: Expand on the descriptions of your projects to showcase your role, responsibilities, and
+      contributions. Quantify the impact of your work whenever possible.</li>
+    <li>Skills/Technical Skills: Highlight the skills that are most relevant to your target job role and industry.
+      Consider adding additional skills that are in high demand.</li>
+    <li>Salary Expectations: Tailor your salary expectations to the industry standards and your level of experience.
+      Research the average salary for similar roles in your area to ensure your expectations are realistic.</li>
+    <li>Field of Interest: Clearly state your field of interest at the beginning of your resume to help recruiters
+      quickly understand your career goals.</li>
+  </ul>
+</div>

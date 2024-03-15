@@ -1,43 +1,43 @@
-  <div class="workExperience">
-<h3>Work Experience</h3>
-<ul>
-<li>No work experience was provided.</li>
-</ul>
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>No work experience was provided.</li>
+  </ul>
 </div>
 
 <div class="projects">
-<h3>Projects</h3>
-<ul>
-<li>No projects were provided.</li>
-</ul>
+  <h2>Projects</h2>
+  <ul>
+    <li>No projects were provided.</li>
+  </ul>
 </div>
 
 <div class="skills">
-<h3>Skills/Technical Skills</h3>
-<ul>
-<li>Programming Languages (Python and C++)</li>
-<li>Database Management (SQL, MongoDB)</li>
-<li>HTML, CSS, Javascript, Wireframing (Figma)</li>
-<li>Microsoft Office (Word, Excel, PowerPoint)</li>
-<li>Soft Skills: Critical thinking, creative presentation and communication skills</li>
-</ul>
+  <h2>Skills/Technical Skills</h2>
+  <ul>
+    <li>Programming Languages (Python and C++)</li>
+    <li>Database Management (SQL, MongoDB)</li>
+    <li>HTML, CSS, Javascript, Wireframing (Figma)</li>
+    <li>Microsoft Office (Word, Excel, PowerPoint)</li>
+    <li>Soft Skills: Critical thinking, creative presentation and communication skills</li>
+  </ul>
 </div>
 
 <div class="gapsIdentified">
-<h3>Gaps Identified</h3>
-<ul>
-<li>Lack of work experience.</li>
-<li>No projects were provided.</li>
-</ul>
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of work experience.</li>
+    <li>No projects were provided.</li>
+  </ul>
 </div>
 
 <div class="tailoredRecommendations">
-<h3>Tailored Recommendations</h3>
-<ul>
-<li>Include a summary of your relevant coursework and academic achievements.</li>
-<li>Highlight any relevant personal projects or volunteer experience.</li>
-<li>Consider including a section for certifications or awards.</li>
-<li>Tailor your resume to specific job postings and highlight relevant skills and experiences.</li>
-<li>Proofread your resume carefully for any errors or typos.</li>
-</ul>
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Include a summary of your relevant coursework and academic achievements.</li>
+    <li>Highlight any relevant personal projects or volunteer experience.</li>
+    <li>Consider including a section for certifications or awards.</li>
+    <li>Tailor your resume to specific job postings and highlight relevant skills and experiences.</li>
+    <li>Proofread your resume carefully for any errors or typos.</li>
+  </ul>
 </div>

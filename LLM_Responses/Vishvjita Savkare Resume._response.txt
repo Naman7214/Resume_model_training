@@ -1,31 +1,49 @@
-  <div class="workExperience">
-**Work Experience**
-- Software Engineer Intern at XYZ Company (May 2022 - August 2022)
-- Developed and maintained software applications
-- Worked on a team of engineers to design and implement new features
-- Gained experience in the software development process
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li> Software Engineer Intern at XYZ Company (May 2022 - August 2022)</li>
+    <li> Developed and maintained software applications</li>
+    <li> Worked on a team of engineers to design and implement new features</li>
+    <li> Gained experience in the software development process</li>
+  </ul>
 </div>
+
+
 <div class="projects">
-**Projects**
-- Developed a mobile app that allows users to track their spending
-- Created a website for a local business
-- Designed a logo for a new company
+  <h2>Projects</h2>
+  <ul>
+    <li>Developed a mobile app that allows users to track their spending</li>
+    <li>Created a website for a local business</li>
+    <li>Designed a logo for a new company</li>
+  </ul>
 </div>
+
+
 <div class="skills">
-**Skills**
-- Programming languages: Java, Python, C++
-- Software: Microsoft Office, Google Suite, Adobe Photoshop
-- Technical skills: AWS, Azure, Docker, Kubernetes
+  <h2>Skills</h2>
+  <ul>
+    <li>Programming languages: Java, Python, C++</li>
+    <li>Software: Microsoft Office, Google Suite, Adobe Photoshop</li>
+    <li>Technical skills: AWS, Azure, Docker, Kubernetes</li>
+  </ul>
 </div>
+
+
 <div class="gapsIdentified">
-**Gaps Identified**
-- Lack of experience in a professional setting
-- Limited knowledge of some programming languages
-- Need to improve communication skills
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li> Lack of experience in a professional setting</li>
+    <li> Limited knowledge of some programming languages</li>
+    <li> Need to improve communication skills</li>
+  </ul>
 </div>
+
+
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- Gain experience through internships or part-time jobs
-- Take online courses to learn new programming languages
-- Improve communication skills by taking a public speaking class or joining a debate team
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Gain experience through internships or part-time jobs</li>
+    <li>Take online courses to learn new programming languages</li>
+    <li>Improve communication skills by taking a public speaking class or joining a debate team</li>
+  </ul>
 </div>

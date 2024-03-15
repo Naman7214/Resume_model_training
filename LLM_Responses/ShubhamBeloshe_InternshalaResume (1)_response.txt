@@ -1,52 +1,71 @@
-  <div class="workExperience">
-**Work Experience**
-- Built Wine Quality Prediction with SVC, developed House Price Prediction using Linear Regression, Applied data-driven approaches for effective modeling and prediction.
-- Internship at MapmyIndia,Pune
-- Worked on Recommendation System using Collaborative Filtering based on User-based and Item-based Collaborative Filtering.
-- Developed a Stock Market Prediction System using LSTM.
-- Intern at Elysium Research, Mumbai
-- Worked on Chatbot for customer service which may include functionalities like Frequently Asked Questions, Complaint resolution etc.
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Built Wine Quality Prediction with SVC, developed House Price Prediction using Linear Regression, Applied
+      data-driven approaches for effective modeling and prediction.</li>
+    <li>Internship at MapmyIndia,Pune</li>
+    <li>Worked on Recommendation System using Collaborative Filtering based on User-based and Item-based Collaborative
+      Filtering.</li>
+    <li>Developed a Stock Market Prediction System using LSTM.</li>
+    <li>Intern at Elysium Research, Mumbai</li>
+    <li>Worked on Chatbot for customer service which may include functionalities like Frequently Asked Questions,
+      Complaint resolution etc.</li>
+  </ul>
 </div>
+
 <div class="projects">
-**Projects**
-- **House Price Prediction**
-Aimed to predict the House Prices based on different parameters like area, number of bedrooms, number of bathrooms etc.
-- **Iris Flower Classification**
-The main objective was to classify the iris flower into three different classes namely Setosa, Versicolor and Virginica based on its attributes like sepal length, sepal width, petal length and petal width.
-- **Movie Recommendation System**
-To build a movie recommendation system using Collaborative Filtering.
-- **Credit Card Fraud Detection**
-The main objective of this project was to predict whether a given transaction is fraudulent or not.
-- **Live Language Translator**
-An interactive web application that can translate text from one language to another in real time.
-- **Chatbot**
-In this I created chatbot for restaurant website which may include functionalities like Frequently Asked Questions, Complaint resolution etc.
+  <h2>Projects</h2>
+  <ul>
+    <li>House Price Prediction: Aimed to predict the House Prices based on different parameters like area, number of
+      bedrooms, number of bathrooms etc.</li>
+    <li>Iris Flower Classification: The main objective was to classify the iris flower into three different classes
+      namely Setosa, Versicolor and Virginica based on its attributes like sepal length, sepal width, petal length and
+      petal width.</li>
+    <li>Movie Recommendation System: To build a movie recommendation system using Collaborative Filtering.</li>
+    <li>Credit Card Fraud Detection: The main objective of this project was to predict whether a given transaction is
+      fraudulent or not.</li>
+    <li>Live Language Translator: An interactive web application that can translate text from one language to another in
+      real time.</li>
+    <li>Chatbot: In this I created chatbot for restaurant website which may include functionalities like Frequently
+      Asked Questions, Complaint resolution etc.</li>
+  </ul>
 </div>
 <div class="skills">
-**Skills/Technical Skills**
-- Python
-- Java
-- C++
-- JavaScript
-- HTML
-- CSS
-- Data Analytics
-- Data Science
-- Machine Learning
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C++</li>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Data Analytics</li>
+    <li>Data Science</li>
+    <li>Machine Learning</li>
+  </ul>
 </div>
 <div class="gapsIdentified">
-**Gaps Identified**
-- Lack of information about the candidate's educational background.
-- No mention of any relevant certifications or awards.
-- The candidate has not provided any information about their work experience.
-- The candidate has not provided any information about their skills or technical skills.
-- The candidate has not provided any information about their interests or career goals.
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of information about the candidate's educational background.</li>
+    <li>No mention of any relevant certifications or awards.</li>
+    <li>The candidate has not provided any information about their work experience.</li>
+    <li>The candidate has not provided any information about their skills or technical skills.</li>
+    <li>The candidate has not provided any information about their interests or career goals.</li>
+  </ul>
 </div>
+
 <div class="tailoredRecommendations">
-**Tailored Recommendations**
-- The candidate should include a summary of their educational background, including their degrees, institutions, and graduation dates.
-- The candidate should include a section listing any relevant certifications or awards they have received.
-- The candidate should provide a detailed description of their work experience, including their roles, responsibilities, and accomplishments.
-- The candidate should provide a list of their skills and technical skills, including any relevant programming languages, tools, or technologies.
-- The candidate should include a statement of their interests or career goals, and how their skills and experience align with those goals.
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>The candidate should include a summary of their educational background, including their degrees, institutions,
+      and graduation dates.</li>
+    <li>The candidate should include a section listing any relevant certifications or awards they have received.</li>
+    <li>The candidate should provide a detailed description of their work experience, including their roles,
+      responsibilities, and accomplishments.</li>
+    <li>The candidate should provide a list of their skills and technical skills, including any relevant programming
+      languages, tools, or technologies.</li>
+    <li>The candidate should include a statement of their interests or career goals, and how their skills and experience
+      align with those goals.</li>
+  </ul>
 </div>

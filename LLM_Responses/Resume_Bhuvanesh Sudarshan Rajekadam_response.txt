@@ -1,79 +1,45 @@
-  <html>
-<head>
-<title>Bhuvanesh Sudarshan Raje</title>
-</head>
-<body>
-<h1>Bhuvanesh Sudarshan Raje</h1>
-<hr>
-<h2>Contact</h2>
-<p>+91 9552498238</p>
-<p>bhuvaneshraj@gmail.com</p>
-<p>https://www.linkedin.com/in/bhuvanesh-raje-b03a3321b/</p>
-<p>52, Pune, Maharashtra, India</p>
-<h2>Objective</h2>
-<p>To leverage my skills and abilities to contribute to the growth of the organization while enhancing my knowledge and expertise in the field of interest.</p>
-<h2>Education</h2>
-<ul>
-<li>Marathwada Mitramandal's College of Engineering, Bachelor's in Engineering (BE) in Information Technology (2020-2024)</li>
-<li>Fourth Year Engineering (BE) - Pursuing</li>
-<li>Third Year Engineering (TE) - 8.67 CGPA</li>
-<li>Second Year Engineering (SE) - 9.34 CGPA</li>
-<li>First Year Engineering (FE) - 9.98 CGPA</li>
-</ul>
-<ul>
-<li>Chhatrapati Shahu College, Satara 12th (HSC) (2018-2020) - 76%</li>
-</ul>
-<ul>
-<li>podar international school (CBSE), Satara 10th (CBSE) - (2010 - 2018) - 86%</li>
-</ul>
-<h2>Work Experience</h2>
 <div class="workExperience">
-<ul>
-<li>Machine Learning & Data Science Intern (YBI Foundations) (11/2022-12/2022)</li>
-<li>Tasks:</li>
-<li>Performed data preprocessing, cleaning, analyzing, visualization</li>
-<li>For analyzing compressive strength of cement using regression models.</li>
-<li>Data Science Intern (Exposys Data Labs) (06/2022-09/2022)</li>
-<li>Tasks:</li>
-<li>Preparing dataset using several methods to train dataset, building a model that gives higher accuracy of predicting the disease.</li>
-<li>Organized Student Chapter, MMCOE (08/2023 - Present)</li>
-<li>General Secretary</li>
-<li>ISTE Student's Chapter, MMCOE (08/2023 - Present)</li>
-<li>Treasurer</li>
-<li>College Magazine Office, MMCOE (02/2023 - 04/2023)</li>
-<li>Editor - Design & Layout</li>
-<li>IT Students' Association, MMCOE (08/2022 - 08/2023)</li>
-<li>Vice President</li>
-</ul>
-</div>
-<h2>Skills</h2>
-<div class="skills">
-<ul>
-<li>Python</li>
-<li>SQL</li>
-<li>NodeJS</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>MongoDB</li>
-<li>Java</li>
-<li>Data Analysis</li>
-<li>Jupiter NB</li>
-<li>Visual Studio</li>
-<li>Figma</li>
-<li>Code Blocks</li>
-<li>Canva</li>
-<li>Microsoft Office & Libre Office</li>
-<li>Time Management</li>
-<li>Decision Making</li>
-<li>Leadership</li>
-<li>Teamwork</li>
-</ul>
-</div>
-<h2>Projects</h2>
-<div class="projects">
-<ul>
-<li>Smart Car Parking System (06/2023 - Ongoing)</li>
-<li>Creating a application that will automatically scan number plate of vehicle at entry and will calculate charges accordingly. Technologies used will be OCR machine learning, language detection library and payment gateway.</li>
-<li>E-commerce Website Online Shopping System (11/2022-12/2022)</li>
-<li>Developed e-commerce online shopping website using Node.js, HTML5, CSS3, Mongodb.</li>
-<
+  <h2>Work Experience</h2>
+  <p>Machine Learning & Data Science Intern (YBI Foundations) (11/2022-12/2022)</p>
+    <ul>
+      <li>Performed data preprocessing, cleaning, analyzing, visualization</li>
+      <li>For analyzing compressive strength of cement using regression models.</li>
+    </ul>
+    <p>Data Science Intern (Exposys Data Labs) (06/2022-09/2022)</p>
+    <ul>
+      <li>Preparing dataset using several methods to train dataset, building a model that gives higher accuracy of predicting the disease.</li>
+    </ul>
+  </div>
+  <h2>Skills</h2>
+  <div class="skills">
+    <ul>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>NodeJS</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>MongoDB</li>
+      <li>Java</li>
+      <li>Data Analysis</li>
+      <li>Jupiter NB</li>
+      <li>Visual Studio</li>
+      <li>Figma</li>
+      <li>Code Blocks</li>
+      <li>Canva</li>
+      <li>Microsoft Office & Libre Office</li>
+      <li>Time Management</li>
+      <li>Decision Making</li>
+      <li>Leadership</li>
+      <li>Teamwork</li>
+    </ul>
+  </div>
+  <h2>Projects</h2>
+  <div class="projects">
+    <ul>
+      <li>Smart Car Parking System (06/2023 - Ongoing)</li>
+      <li>Creating a application that will automatically scan number plate of vehicle at entry and will calculate
+        charges accordingly. Technologies used will be OCR machine learning, language detection library and payment
+        gateway.</li>
+      <li>E-commerce Website Online Shopping System (11/2022-12/2022)</li>
+      <li>Developed e-commerce online shopping website using Node.js, HTML5, CSS3, Mongodb.</li>
+      <

@@ -1,40 +1,52 @@
-  <div class="workExperience">
-<b>Work Experience</b>
-- Software Engineer Intern at Amazon
-- Developed and maintained software for Amazon's e-commerce website
-- Worked on a team of engineers to design and implement new features
-- Gained experience in software development, teamwork, and communication
+<div class="workExperience">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Software Engineer Intern at Amazon</li>
+    <li>Developed and maintained software for Amazon's e-commerce website</li>
+    <li>Worked on a team of engineers to design and implement new features</li>
+    <li>Gained experience in software development, teamwork, and communication</li>
+  </ul>
 </div>
 
 <div class="projects">
-<b>Projects</b>
-- Developed a website for a local NGO
-- Worked with a team of volunteers to design and implement the website
-- The website provides information about the NGO's mission and work, and allows users to donate and volunteer
-- Gained experience in web development, teamwork, and project management
+  <h2>Projects</h2>
+  <ul>
+    <li>Developed a website for a local NGO</li>
+    <li>Worked with a team of volunteers to design and implement the website</li>
+    <li>The website provides information about the NGO's mission and work, and allows users to donate and volunteer</li>
+    <li>Gained experience in web development, teamwork, and project management</li>
+  </ul>
 </div>
 
 <div class="skills">
-<b>Skills</b>
-- Python
-- Java
-- C++
-- Data Structures and Algorithms
-- Software Development
-- Teamwork
-- Communication
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C++</li>
+    <li>Data Structures and Algorithms</li>
+    <li>Software Development</li>
+    <li>Teamwork</li>
+    <li>Communication</li>
+  </ul>
 </div>
 
 <div class="gapsIdentified">
-<b>Gaps Identified</b>
-- Lack of experience in a professional setting
-- Limited exposure to different areas of computer science
-- Need to improve communication skills
+  <h2>Gaps Identified</h2>
+  <ul>
+    <li>Lack of experience in a professional setting</li>
+    <li>Limited exposure to different areas of computer science</li>
+    <li>Need to improve communication skills</li>
+  </ul>
 </div>
 
 <div class="tailoredRecommendations">
-<b>Tailored Recommendations</b>
-- Consider getting involved in open source projects to gain experience working on a team and to improve your coding skills
-- Look for opportunities to volunteer your skills to local organizations to gain experience in a professional setting
-- Take online courses or tutorials to improve your communication skills
+  <h2>Tailored Recommendations</h2>
+  <ul>
+    <li>Consider getting involved in open source projects to gain experience working on a team and to improve your
+      coding skills</li>
+    <li>Look for opportunities to volunteer your skills to local organizations to gain experience in a professional
+      setting</li>
+    <li>Take online courses or tutorials to improve your communication skills</li>
+  </ul>
 </div>

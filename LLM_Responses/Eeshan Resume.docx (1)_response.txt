@@ -1,59 +1,67 @@
   <div class="workExperience">
-### Work Experience
-- Web Developer Intern
-Elite Softwares, Pune
-December 2022
-- Worked full stack dynamic website development from experienced developers.
-- Gained exposure to front-end development using HTML5, CSS and Bootstrap framework.
-- Worked with supervisor, admin logic, authentication and registration.
-- Gained elementary knowledge of Django - REST framework.
-- Worked extensively with MyAdmin.
+<h2>Work Experience</h2>
+<p>Web Developer Intern-Elite Softwares, Pune(December 2022)</p>
+<ul>
+ <li>Worked full stack dynamic website development from experienced developers.</li>
+ <li>Gained exposure to front-end development using HTML5, CSS and Bootstrap framework.</li>
+ <li>Worked with supervisor, admin logic, authentication and registration.</li>
+ <li>Gained elementary knowledge of Django - REST framework.</li>
+ <li>Worked extensively with MyAdmin.</li>
+</ul>
 </div>
 <div class="projects">
-### Projects
-- Website Development
-- Setup up Apache server using XAMPP on Windows operating system
-- Designed dynamic shopping website using HTML5/CSS/Bootstrap for front-end
-- Used PHP for back-end APIs
-- Integrated social media APIs
-- Designed inventory management website with Django, HTML5/CSS/Bootstrap
-- Developed forums for MyPadhin
-- Worked extensively with MyPadhin
-- Colouring Machine
-- Programmed Arduino nano for sorting colored balls using sensor and servo motor
-- Interfaced PIC18 microcontroller for temperature detection using sensor and LCD display
+<h2>Projects</h2>
+<ul>
+ <li>Website Development</li>
+ <li>Setup up Apache server using XAMPP on Windows operating system</li>
+ <li>Designed dynamic shopping website using HTML5/CSS/Bootstrap for front-end</li>
+ <li>Used PHP for back-end APIs</li>
+ <li>Integrated social media APIs</li>
+ <li>Designed inventory management website with Django, HTML5/CSS/Bootstrap</li>
+ <li>Developed forums for MyPadhin</li>
+ <li>Worked extensively with MyPadhin</li>
+ <li>Colouring Machine</li>
+ <li>Programmed Arduino nano for sorting colored balls using sensor and servo motor</li>
+ <li>Interfaced PIC18 microcontroller for temperature detection using sensor and LCD display</li>
+</ul>
 </div>
 <div class="skills">
-### Skills
-- Programming Languages: Core Java, Python, C++, HTML, CSS, PHP, GIT
-- Frameworks: Web - Django, Bootstrap
-- ML/DS Library: Scikit-Learn, Pandas, Seaborn, NumPy, Matplotlib
-- Databases: MySQL, PostgreSQL, MongoDB, Microsoft Office
-- Tools: GitHub, GitLab, CPanel, MyPadhin, Canva, Microsoft Office
-- Relevant Courses: Data Structures and Algorithms, Software Engineering, Operating Systems, Processor Architectures, OOP
-- Certifications: ITB Tutorials on Java, Python, Cpp
+<h2>Skills</h2>
+<ul>
+ <li>Programming Languages: Core Java, Python, C++, HTML, CSS, PHP, GIT</li>
+ <li>Frameworks: Web - Django, Bootstrap</li>
+ <li>ML/DS Library: Scikit-Learn, Pandas, Seaborn, NumPy, Matplotlib</li>
+ <li>Databases: MySQL, PostgreSQL, MongoDB, Microsoft Office</li>
+ <li>Tools: GitHub, GitLab, CPanel, MyPadhin, Canva, Microsoft Office</li>
+ <li>Relevant Courses: Data Structures and Algorithms, Software Engineering, Operating Systems, Processor Architectures, OOP</li>
+ <li>Certifications: ITB Tutorials on Java, Python, Cpp</li>
+</ul>
 </div>
 <div class="gapsIdentified">
-### Gaps Identified
-- Lack of professional summary highlighting key skills and achievements.
-- Limited description of work experience, making it difficult to assess the depth of involvement and impact.
-- Absence of quantifiable achievements or metrics to demonstrate the candidate's contributions.
-- Inconsistent formatting and structure, making it challenging to navigate and read the resume.
-- Lack of a clear career objective or statement of purpose, making it difficult to understand the candidate's career aspirations and goals.
+<h2>Gaps Identified</h2>
+<ul>
+ <li>Lack of professional summary highlighting key skills and achievements.</li>
+ <li>Limited description of work experience, making it difficult to assess the depth of involvement and impact.</li>
+ <li>Absence of quantifiable achievements or metrics to demonstrate the candidate's contributions.</li>
+ <li>Inconsistent formatting and structure, making it challenging to navigate and read the resume.</li>
+ <li>Lack of a clear career objective or statement of purpose, making it difficult to understand the candidate's career aspirations and goals.</li>
+</ul>
 </div>
 <div class="tailoredRecommendations">
-### Tailored Recommendations
-- **Professional Summary:** Begin the resume with a compelling professional summary that succinctly highlights your key skills, experiences, and career aspirations. Tailor this summary to the specific job role or industry you are applying to, showcasing how your background aligns with the position.
+<h2>Tailored Recommendations</h2>
+<ul>
+ <li>**Professional Summary:** Begin the resume with a compelling professional summary that succinctly highlights your key skills, experiences, and career aspirations. Tailor this summary to the specific job role or industry you are applying to, showcasing how your background aligns with the position.</li>
 
-- **Work Experience:** Expand on your work experience by providing more detailed descriptions of your responsibilities, achievements, and the impact you made in each role. Use bullet points to make your experience easily scannable and highlight quantifiable achievements whenever possible.
+ <li>**Work Experience:** Expand on your work experience by providing more detailed descriptions of your responsibilities, achievements, and the impact you made in each role. Use bullet points to make your experience easily scannable and highlight quantifiable achievements whenever possible.</li>
 
-- **Projects:** Include a dedicated section for personal projects or extracurricular activities that demonstrate your skills and interests. Provide a brief description of each project, your role, and the technologies used. This section can help recruiters understand your passion and commitment to your field.
+ <li>**Projects:** Include a dedicated section for personal projects or extracurricular activities that demonstrate your skills and interests. Provide a brief description of each project, your role, and the technologies used. This section can help recruiters understand your passion and commitment to your field.</li>
 
-- **Skills:** List your technical and soft skills in a separate section, using a clear and consistent format. Consider using keywords relevant to the job you are applying for to increase the visibility of your resume in applicant tracking systems (ATS).
+ <li>**Skills:** List your technical and soft skills in a separate section, using a clear and consistent format. Consider using keywords relevant to the job you are applying for to increase the visibility of your resume in applicant tracking systems (ATS).</li>
 
-- **Education:** Include your educational background, including degrees, institutions, and graduation dates. If you have a strong academic record, consider including relevant honors or awards.
+ <li>**Education:** Include your educational background, including degrees, institutions, and graduation dates. If you have a strong academic record, consider including relevant honors or awards.</li>
 
-- **Additional Sections:** Depending on the role you are applying for, you may want to include additional sections such as certifications, languages, or volunteer experience. These sections can provide additional insights into your qualifications and well-roundedness.
+ <li>**Additional Sections:** Depending on the role you are applying for, you may want to include additional sections such as certifications, languages, or volunteer experience. These sections can provide additional insights into your qualifications and well-roundedness.</li>
 
-- **Proofread and Edit:** Before submitting your resume, carefully proofread and edit it for any errors in grammar, spelling, or formatting. A well-written and error-free resume will make a positive impression on potential employers.
+ <li>**Proofread and Edit:** Before submitting your resume, carefully proofread and edit it for any errors in grammar, spelling, or formatting. A well-written and error-free resume will make a positive impression on potential employers.</li>
+</ul>
 </div>
